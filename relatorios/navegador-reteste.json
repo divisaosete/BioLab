@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-29",
+  "method": "Playwright + Edge headless; real mouse clicks and browser touchscreen taps",
+  "browser": "156.0.4314.50",
+  "cases": [
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Biblioteca preservada, navegação e layout sem rolagem lateral",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

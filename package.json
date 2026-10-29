@@ -1,0 +1,1 @@
+{"name":"biolab","version":"3.1.0","type":"module","scripts":{"start":"node server.mjs","test":"node --test tests.mjs selection.test.mjs","test:browser":"node --test browser.test.mjs"},"devDependencies":{"playwright-core":"1.64.1"}}

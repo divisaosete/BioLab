@@ -1,0 +1,1842 @@
+{
+  "date": "2026-10-29",
+  "method": "Playwright + Edge headless; real mouse clicks and browser touchscreen taps",
+  "browser": "156.0.4314.50",
+  "cases": [
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Painel começa com a instrução e módulo de proteínas ausente",
+      "passed": true,
+      "panelText": "◎\n\nSelecione uma estrutura para conhecer sua função.\n\nClique ou toque diretamente na ilustração. A descrição ficará aqui até você escolher outra estrutura."
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula animal · Membrana plasmática",
+      "passed": true,
+      "id": "membrane",
+      "panelText": "CÉLULA ANIMAL\nMembrana plasmática\n\nFUNÇÃO BIOLÓGICA\n\nDelimita a célula e regula a passagem de substâncias.\n\nDESCRIÇÃO\n\nA bicamada de lipídios contém proteínas. Na célula vegetal, fica por dentro da parede celular.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula animal · Núcleo",
+      "passed": true,
+      "id": "nucleus",
+      "panelText": "CÉLULA ANIMAL\nNúcleo\n\nFUNÇÃO BIOLÓGICA\n\nAbriga a maior parte do DNA e participa do controle da atividade celular.\n\nDESCRIÇÃO\n\nÉ envolvido por duas membranas com poros. A posição e o tamanho variam entre células.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula animal · Nucléolo",
+      "passed": true,
+      "id": "nucleolus",
+      "panelText": "CÉLULA ANIMAL\nNucléolo\n\nFUNÇÃO BIOLÓGICA\n\nParticipa da produção dos componentes dos ribossomos.\n\nDESCRIÇÃO\n\nÉ uma região do núcleo, sem membrana própria. Não é um pequeno núcleo separado.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula animal · Mitocôndrias",
+      "passed": true,
+      "id": "mitochondria",
+      "panelText": "CÉLULA ANIMAL\nMitocôndrias\n\nFUNÇÃO BIOLÓGICA\n\nParticipam da respiração celular e da produção de ATP.\n\nDESCRIÇÃO\n\nTêm duas membranas; a interna forma cristas. Células vegetais também possuem mitocôndrias.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula animal · Retículo endoplasmático",
+      "passed": true,
+      "id": "er",
+      "panelText": "CÉLULA ANIMAL\nRetículo endoplasmático\n\nFUNÇÃO BIOLÓGICA\n\nForma uma rede de membranas envolvida na produção e no transporte de moléculas.\n\nDESCRIÇÃO\n\nO retículo rugoso possui ribossomos associados; o liso participa da síntese de lipídios, entre outras funções.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula animal · Complexo de Golgi",
+      "passed": true,
+      "id": "golgi",
+      "panelText": "CÉLULA ANIMAL\nComplexo de Golgi\n\nFUNÇÃO BIOLÓGICA\n\nModifica e organiza moléculas para diferentes destinos.\n\nDESCRIÇÃO\n\nSeus compartimentos membranosos recebem e enviam vesículas. Trabalha em conjunto com o retículo.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula animal · Ribossomos",
+      "passed": true,
+      "id": "ribosomes",
+      "panelText": "CÉLULA ANIMAL\nRibossomos\n\nFUNÇÃO BIOLÓGICA\n\nProduzem proteínas a partir da informação do RNA mensageiro.\n\nDESCRIÇÃO\n\nPodem estar livres ou associados ao retículo. Não são envolvidos por membrana; os pontos foram ampliados para facilitar a seleção.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula animal · Lisossomos",
+      "passed": true,
+      "id": "lysosomes",
+      "panelText": "CÉLULA ANIMAL\nLisossomos\n\nFUNÇÃO BIOLÓGICA\n\nDegradam materiais e participam da reciclagem celular.\n\nDESCRIÇÃO\n\nContêm enzimas que atuam em meio ácido. Nas células vegetais, vacúolos líticos podem desempenhar funções semelhantes.\n\nEstrutura mostrada no modelo animal.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula animal · Centrossomo",
+      "passed": true,
+      "id": "centrosome",
+      "panelText": "CÉLULA ANIMAL\nCentrossomo\n\nFUNÇÃO BIOLÓGICA\n\nOrganiza microtúbulos em muitas células animais.\n\nDESCRIÇÃO\n\nO modelo mostra um par de centríolos. A organização dos microtúbulos nas plantas superiores é diferente.\n\nEstrutura mostrada no modelo animal.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula animal · seleção depois de zoom",
+      "passed": true,
+      "panelText": "CÉLULA ANIMAL\nMitocôndrias\n\nFUNÇÃO BIOLÓGICA\n\nParticipam da respiração celular e da produção de ATP.\n\nDESCRIÇÃO\n\nTêm duas membranas; a interna forma cristas. Células vegetais também possuem mitocôndrias.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula plant · Membrana plasmática",
+      "passed": true,
+      "id": "membrane",
+      "panelText": "CÉLULA VEGETAL\nMembrana plasmática\n\nFUNÇÃO BIOLÓGICA\n\nDelimita a célula e regula a passagem de substâncias.\n\nDESCRIÇÃO\n\nA bicamada de lipídios contém proteínas. Na célula vegetal, fica por dentro da parede celular.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula plant · Núcleo",
+      "passed": true,
+      "id": "nucleus",
+      "panelText": "CÉLULA VEGETAL\nNúcleo\n\nFUNÇÃO BIOLÓGICA\n\nAbriga a maior parte do DNA e participa do controle da atividade celular.\n\nDESCRIÇÃO\n\nÉ envolvido por duas membranas com poros. A posição e o tamanho variam entre células.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula plant · Nucléolo",
+      "passed": true,
+      "id": "nucleolus",
+      "panelText": "CÉLULA VEGETAL\nNucléolo\n\nFUNÇÃO BIOLÓGICA\n\nParticipa da produção dos componentes dos ribossomos.\n\nDESCRIÇÃO\n\nÉ uma região do núcleo, sem membrana própria. Não é um pequeno núcleo separado.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula plant · Mitocôndrias",
+      "passed": true,
+      "id": "mitochondria",
+      "panelText": "CÉLULA VEGETAL\nMitocôndrias\n\nFUNÇÃO BIOLÓGICA\n\nParticipam da respiração celular e da produção de ATP.\n\nDESCRIÇÃO\n\nTêm duas membranas; a interna forma cristas. Células vegetais também possuem mitocôndrias.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula plant · Retículo endoplasmático",
+      "passed": true,
+      "id": "er",
+      "panelText": "CÉLULA VEGETAL\nRetículo endoplasmático\n\nFUNÇÃO BIOLÓGICA\n\nForma uma rede de membranas envolvida na produção e no transporte de moléculas.\n\nDESCRIÇÃO\n\nO retículo rugoso possui ribossomos associados; o liso participa da síntese de lipídios, entre outras funções.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula plant · Complexo de Golgi",
+      "passed": true,
+      "id": "golgi",
+      "panelText": "CÉLULA VEGETAL\nComplexo de Golgi\n\nFUNÇÃO BIOLÓGICA\n\nModifica e organiza moléculas para diferentes destinos.\n\nDESCRIÇÃO\n\nSeus compartimentos membranosos recebem e enviam vesículas. Trabalha em conjunto com o retículo.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula plant · Ribossomos",
+      "passed": true,
+      "id": "ribosomes",
+      "panelText": "CÉLULA VEGETAL\nRibossomos\n\nFUNÇÃO BIOLÓGICA\n\nProduzem proteínas a partir da informação do RNA mensageiro.\n\nDESCRIÇÃO\n\nPodem estar livres ou associados ao retículo. Não são envolvidos por membrana; os pontos foram ampliados para facilitar a seleção.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula plant · Cloroplastos",
+      "passed": true,
+      "id": "chloroplasts",
+      "panelText": "CÉLULA VEGETAL\nCloroplastos\n\nFUNÇÃO BIOLÓGICA\n\nRealizam a fotossíntese em células vegetais fotossintetizantes.\n\nDESCRIÇÃO\n\nContêm clorofila e membranas internas organizadas em tilacoides. Nem toda célula de uma planta possui cloroplastos: células das raízes, por exemplo, geralmente não os apresentam.\n\nCaracterística do modelo vegetal selecionado.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula plant · Vacúolo central",
+      "passed": true,
+      "id": "vacuole",
+      "panelText": "CÉLULA VEGETAL\nVacúolo central\n\nFUNÇÃO BIOLÓGICA\n\nArmazena substâncias e ajuda a manter o equilíbrio de água e o turgor.\n\nDESCRIÇÃO\n\nÉ característico de muitas células vegetais maduras. Células animais podem ter pequenos compartimentos vacuolares, mas não este grande vacúolo central típico.\n\nCaracterística do modelo vegetal selecionado.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula plant · Parede celular",
+      "passed": true,
+      "id": "wall",
+      "panelText": "CÉLULA VEGETAL\nParede celular\n\nFUNÇÃO BIOLÓGICA\n\nOferece sustentação e proteção à célula vegetal.\n\nDESCRIÇÃO\n\nFica externamente à membrana e contém celulose. Não substitui a membrana plasmática.\n\nCaracterística do modelo vegetal selecionado.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Célula plant · seleção depois de zoom",
+      "passed": true,
+      "panelText": "CÉLULA VEGETAL\nMitocôndrias\n\nFUNÇÃO BIOLÓGICA\n\nParticipam da respiração celular e da produção de ATP.\n\nDESCRIÇÃO\n\nTêm duas membranas; a interna forma cristas. Células vegetais também possuem mitocôndrias.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Células · arraste não seleciona e o clique seguinte funciona",
+      "passed": true,
+      "panelText": "CÉLULA ANIMAL\nMitocôndrias\n\nFUNÇÃO BIOLÓGICA\n\nParticipam da respiração celular e da produção de ATP.\n\nDESCRIÇÃO\n\nTêm duas membranas; a interna forma cristas. Células vegetais também possuem mitocôndrias.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Encéfalo",
+      "passed": true,
+      "id": "brain",
+      "system": "all",
+      "panelText": "SISTEMA NERVOSO\nEncéfalo\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nDentro do crânio, na cabeça.\n\nFUNÇÃO PRINCIPAL\n\nIntegra informações e coordena funções do organismo.\n\nDESCRIÇÃO\n\nO encéfalo inclui cérebro, cerebelo e tronco encefálico. O desenho reúne essas regiões em uma vista esquemática.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Medula espinal",
+      "passed": true,
+      "id": "spinal",
+      "system": "all",
+      "panelText": "SISTEMA NERVOSO\nMedula espinal\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nNo canal vertebral, em continuidade com o tronco encefálico.\n\nFUNÇÃO PRINCIPAL\n\nConduz sinais entre o encéfalo e o corpo e participa de reflexos.\n\nDESCRIÇÃO\n\nSitua-se no canal vertebral. O desenho não representa todos os segmentos ou trajetos nervosos.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Nervos periféricos",
+      "passed": true,
+      "id": "nerves",
+      "system": "all",
+      "panelText": "SISTEMA NERVOSO\nNervos periféricos\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nDistribuídos pelo corpo, ligando o sistema nervoso central aos tecidos.\n\nFUNÇÃO PRINCIPAL\n\nConectam o sistema nervoso central a outras partes do corpo.\n\nDESCRIÇÃO\n\nA rede ilustrada é resumida. Não representa o percurso de cada nervo individual.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Coração",
+      "passed": true,
+      "id": "heart",
+      "system": "all",
+      "panelText": "SISTEMA CARDIOVASCULAR\nCoração\nSISTEMA ANATÔMICO\nCardiovascular\nLOCALIZAÇÃO\nNo tórax, entre os pulmões, com maior parte à esquerda da linha média.\n\nFUNÇÃO PRINCIPAL\n\nBombeia sangue para os pulmões e para o restante do corpo.\n\nDESCRIÇÃO\n\nFica no mediastino, entre os pulmões, com maior parte à esquerda da linha média do corpo. O desenho não separa suas quatro câmaras.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema cardiovascular ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Grandes vasos",
+      "passed": true,
+      "id": "vessels",
+      "system": "all",
+      "panelText": "SISTEMA CARDIOVASCULAR\nGrandes vasos\nSISTEMA ANATÔMICO\nCardiovascular\nLOCALIZAÇÃO\nPercorrem o tórax, o abdome e os membros, conectados ao coração.\n\nFUNÇÃO PRINCIPAL\n\nTransportam sangue entre coração, órgãos e tecidos.\n\nDESCRIÇÃO\n\nVermelho e azul distinguem trajetos arteriais e venosos esquemáticos. Não significam que o sangue venoso seja azul; vasos pulmonares não estão detalhados.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema cardiovascular ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Pulmões",
+      "passed": true,
+      "id": "lungs",
+      "system": "all",
+      "panelText": "SISTEMA RESPIRATÓRIO\nPulmões\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nNa cavidade torácica, um de cada lado do mediastino.\n\nFUNÇÃO PRINCIPAL\n\nRealizam trocas de oxigênio e dióxido de carbono com o sangue.\n\nDESCRIÇÃO\n\nO pulmão direito tem três lobos; o esquerdo tem dois e uma incisura cardíaca. As linhas de lobos são apenas orientativas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Traqueia e brônquios principais",
+      "passed": true,
+      "id": "trachea",
+      "system": "all",
+      "panelText": "SISTEMA RESPIRATÓRIO\nTraqueia e brônquios principais\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nEntre o pescoço e o tórax; os brônquios principais entram nos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nConduzem ar em direção aos pulmões.\n\nDESCRIÇÃO\n\nA traqueia se divide em dois brônquios principais. O modelo não mostra a árvore de bronquíolos e alvéolos.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Diafragma",
+      "passed": true,
+      "id": "diaphragm",
+      "system": "all",
+      "panelText": "SISTEMA RESPIRATÓRIO\nDiafragma\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nEntre as cavidades torácica e abdominal, abaixo dos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nÉ um dos principais músculos da inspiração.\n\nDESCRIÇÃO\n\nSepara as cavidades torácica e abdominal. Quando se contrai, ajuda a aumentar o volume do tórax.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Esôfago",
+      "passed": true,
+      "id": "esophagus",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nEsôfago\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nDo pescoço ao abdome superior, posteriormente à traqueia e ao coração.\n\nFUNÇÃO PRINCIPAL\n\nConduz o alimento da faringe ao estômago.\n\nDESCRIÇÃO\n\nPassa posteriormente à traqueia e atravessa o diafragma. Nesta vista didática, parte do trajeto foi exposta para ser selecionável.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Fígado",
+      "passed": true,
+      "id": "liver",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nFígado\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nPrincipalmente na parte superior direita do abdome, sob o diafragma.\n\nFUNÇÃO PRINCIPAL\n\nProduz bile e participa do metabolismo e processamento de substâncias.\n\nDESCRIÇÃO\n\nOcupa principalmente a parte superior direita do abdome. Nesta vista anterior, esse lado aparece à esquerda da imagem.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Estômago",
+      "passed": true,
+      "id": "stomach",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nEstômago\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nPrincipalmente na parte superior esquerda do abdome.\n\nFUNÇÃO PRINCIPAL\n\nArmazena, mistura e inicia parte da digestão química dos alimentos.\n\nDESCRIÇÃO\n\nFica sobretudo no lado superior esquerdo do abdome, aparecendo à direita da imagem.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Pâncreas",
+      "passed": true,
+      "id": "pancreas",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nPâncreas\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNo abdome superior, em grande parte posteriormente ao estômago.\n\nFUNÇÃO PRINCIPAL\n\nProduz secreções digestivas e hormônios como insulina e glucagon.\n\nDESCRIÇÃO\n\nLocaliza-se em grande parte atrás do estômago. É mostrado de forma exposta para permitir a exploração; também pertence ao sistema endócrino.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Intestino delgado",
+      "passed": true,
+      "id": "smallIntestine",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nIntestino delgado\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNa cavidade abdominal, com alças sobretudo na região central e inferior.\n\nFUNÇÃO PRINCIPAL\n\nRealiza grande parte da digestão e da absorção de nutrientes.\n\nDESCRIÇÃO\n\nSuas alças ocupam parte importante do abdome. O trajeto foi simplificado e não mostra o comprimento real.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Intestino grosso",
+      "passed": true,
+      "id": "colon",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nIntestino grosso\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNo abdome, contornando parte das alças do intestino delgado e continuando até a pelve.\n\nFUNÇÃO PRINCIPAL\n\nAbsorve água e eletrólitos e participa da formação das fezes.\n\nDESCRIÇÃO\n\nO cólon contorna parte das alças do intestino delgado. O modelo inclui um trajeto resumido até o reto.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Crânio",
+      "passed": true,
+      "id": "skull",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nCrânio\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa cabeça, envolvendo o encéfalo e formando a estrutura da face.\n\nFUNÇÃO PRINCIPAL\n\nProtege o encéfalo e forma a estrutura óssea da cabeça.\n\nDESCRIÇÃO\n\nO contorno não individualiza todos os ossos do crânio.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Caixa torácica",
+      "passed": true,
+      "id": "ribs",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nCaixa torácica\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNo tórax, ao redor do coração e dos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nAjuda a proteger órgãos do tórax e participa da mecânica respiratória.\n\nDESCRIÇÃO\n\nÉ formada por costelas, esterno e vértebras torácicas. O desenho mostra um número reduzido de arcos para facilitar a leitura.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Coluna vertebral",
+      "passed": true,
+      "id": "spine",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nColuna vertebral\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa região posterior do tronco, do pescoço à pelve.\n\nFUNÇÃO PRINCIPAL\n\nSustenta o tronco e protege a medula espinal.\n\nDESCRIÇÃO\n\nO modelo resume vértebras e não reproduz as curvaturas fisiológicas em uma vista lateral.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Pelve óssea",
+      "passed": true,
+      "id": "pelvis",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nPelve óssea\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa base do tronco, conectando a coluna aos membros inferiores.\n\nFUNÇÃO PRINCIPAL\n\nTransfere cargas do tronco aos membros inferiores e protege estruturas pélvicas.\n\nDESCRIÇÃO\n\nOs contornos são esquemáticos; diferenças individuais não estão representadas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Úmeros",
+      "passed": true,
+      "id": "humerus",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nÚmeros\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNos braços, entre os ombros e os cotovelos.\n\nFUNÇÃO PRINCIPAL\n\nFormam a parte óssea dos braços, entre ombros e cotovelos.\n\nDESCRIÇÃO\n\nOs dois ossos foram agrupados para seleção. As articulações não são mostradas em detalhe.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Rádios e ulnas",
+      "passed": true,
+      "id": "forearm",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nRádios e ulnas\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNos antebraços, entre os cotovelos e os punhos.\n\nFUNÇÃO PRINCIPAL\n\nFormam o esqueleto dos antebraços.\n\nDESCRIÇÃO\n\nO rádio fica do lado do polegar na posição anatômica; os trajetos no desenho são simplificados.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Fêmures",
+      "passed": true,
+      "id": "femur",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nFêmures\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNas coxas, entre os quadris e os joelhos.\n\nFUNÇÃO PRINCIPAL\n\nSustentam as coxas e transmitem cargas entre quadris e joelhos.\n\nDESCRIÇÃO\n\nSão representados em ambos os lados. Proporções e inserções musculares não são detalhadas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Visão integrada · Tíbias e fíbulas",
+      "passed": true,
+      "id": "lowerLeg",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nTíbias e fíbulas\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNas pernas, entre os joelhos e os tornozelos.\n\nFUNÇÃO PRINCIPAL\n\nFormam a estrutura óssea das pernas abaixo dos joelhos.\n\nDESCRIÇÃO\n\nA tíbia suporta a maior parte da carga nesse segmento; a fíbula fica lateralmente.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Nervoso · Encéfalo",
+      "passed": true,
+      "id": "brain",
+      "system": "nervous",
+      "panelText": "SISTEMA NERVOSO\nEncéfalo\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nDentro do crânio, na cabeça.\n\nFUNÇÃO PRINCIPAL\n\nIntegra informações e coordena funções do organismo.\n\nDESCRIÇÃO\n\nO encéfalo inclui cérebro, cerebelo e tronco encefálico. O desenho reúne essas regiões em uma vista esquemática.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Nervoso · Medula espinal",
+      "passed": true,
+      "id": "spinal",
+      "system": "nervous",
+      "panelText": "SISTEMA NERVOSO\nMedula espinal\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nNo canal vertebral, em continuidade com o tronco encefálico.\n\nFUNÇÃO PRINCIPAL\n\nConduz sinais entre o encéfalo e o corpo e participa de reflexos.\n\nDESCRIÇÃO\n\nSitua-se no canal vertebral. O desenho não representa todos os segmentos ou trajetos nervosos.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Nervoso · Nervos periféricos",
+      "passed": true,
+      "id": "nerves",
+      "system": "nervous",
+      "panelText": "SISTEMA NERVOSO\nNervos periféricos\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nDistribuídos pelo corpo, ligando o sistema nervoso central aos tecidos.\n\nFUNÇÃO PRINCIPAL\n\nConectam o sistema nervoso central a outras partes do corpo.\n\nDESCRIÇÃO\n\nA rede ilustrada é resumida. Não representa o percurso de cada nervo individual.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Cardiovascular · Coração",
+      "passed": true,
+      "id": "heart",
+      "system": "cardiovascular",
+      "panelText": "SISTEMA CARDIOVASCULAR\nCoração\nSISTEMA ANATÔMICO\nCardiovascular\nLOCALIZAÇÃO\nNo tórax, entre os pulmões, com maior parte à esquerda da linha média.\n\nFUNÇÃO PRINCIPAL\n\nBombeia sangue para os pulmões e para o restante do corpo.\n\nDESCRIÇÃO\n\nFica no mediastino, entre os pulmões, com maior parte à esquerda da linha média do corpo. O desenho não separa suas quatro câmaras.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema cardiovascular ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Cardiovascular · Grandes vasos",
+      "passed": true,
+      "id": "vessels",
+      "system": "cardiovascular",
+      "panelText": "SISTEMA CARDIOVASCULAR\nGrandes vasos\nSISTEMA ANATÔMICO\nCardiovascular\nLOCALIZAÇÃO\nPercorrem o tórax, o abdome e os membros, conectados ao coração.\n\nFUNÇÃO PRINCIPAL\n\nTransportam sangue entre coração, órgãos e tecidos.\n\nDESCRIÇÃO\n\nVermelho e azul distinguem trajetos arteriais e venosos esquemáticos. Não significam que o sangue venoso seja azul; vasos pulmonares não estão detalhados.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema cardiovascular ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Respiratório · Pulmões",
+      "passed": true,
+      "id": "lungs",
+      "system": "respiratory",
+      "panelText": "SISTEMA RESPIRATÓRIO\nPulmões\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nNa cavidade torácica, um de cada lado do mediastino.\n\nFUNÇÃO PRINCIPAL\n\nRealizam trocas de oxigênio e dióxido de carbono com o sangue.\n\nDESCRIÇÃO\n\nO pulmão direito tem três lobos; o esquerdo tem dois e uma incisura cardíaca. As linhas de lobos são apenas orientativas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Respiratório · Traqueia e brônquios principais",
+      "passed": true,
+      "id": "trachea",
+      "system": "respiratory",
+      "panelText": "SISTEMA RESPIRATÓRIO\nTraqueia e brônquios principais\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nEntre o pescoço e o tórax; os brônquios principais entram nos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nConduzem ar em direção aos pulmões.\n\nDESCRIÇÃO\n\nA traqueia se divide em dois brônquios principais. O modelo não mostra a árvore de bronquíolos e alvéolos.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Respiratório · Diafragma",
+      "passed": true,
+      "id": "diaphragm",
+      "system": "respiratory",
+      "panelText": "SISTEMA RESPIRATÓRIO\nDiafragma\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nEntre as cavidades torácica e abdominal, abaixo dos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nÉ um dos principais músculos da inspiração.\n\nDESCRIÇÃO\n\nSepara as cavidades torácica e abdominal. Quando se contrai, ajuda a aumentar o volume do tórax.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Digestório · Esôfago",
+      "passed": true,
+      "id": "esophagus",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nEsôfago\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nDo pescoço ao abdome superior, posteriormente à traqueia e ao coração.\n\nFUNÇÃO PRINCIPAL\n\nConduz o alimento da faringe ao estômago.\n\nDESCRIÇÃO\n\nPassa posteriormente à traqueia e atravessa o diafragma. Nesta vista didática, parte do trajeto foi exposta para ser selecionável.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Digestório · Fígado",
+      "passed": true,
+      "id": "liver",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nFígado\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nPrincipalmente na parte superior direita do abdome, sob o diafragma.\n\nFUNÇÃO PRINCIPAL\n\nProduz bile e participa do metabolismo e processamento de substâncias.\n\nDESCRIÇÃO\n\nOcupa principalmente a parte superior direita do abdome. Nesta vista anterior, esse lado aparece à esquerda da imagem.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Digestório · Estômago",
+      "passed": true,
+      "id": "stomach",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nEstômago\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nPrincipalmente na parte superior esquerda do abdome.\n\nFUNÇÃO PRINCIPAL\n\nArmazena, mistura e inicia parte da digestão química dos alimentos.\n\nDESCRIÇÃO\n\nFica sobretudo no lado superior esquerdo do abdome, aparecendo à direita da imagem.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Digestório · Pâncreas",
+      "passed": true,
+      "id": "pancreas",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nPâncreas\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNo abdome superior, em grande parte posteriormente ao estômago.\n\nFUNÇÃO PRINCIPAL\n\nProduz secreções digestivas e hormônios como insulina e glucagon.\n\nDESCRIÇÃO\n\nLocaliza-se em grande parte atrás do estômago. É mostrado de forma exposta para permitir a exploração; também pertence ao sistema endócrino.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Digestório · Intestino delgado",
+      "passed": true,
+      "id": "smallIntestine",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nIntestino delgado\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNa cavidade abdominal, com alças sobretudo na região central e inferior.\n\nFUNÇÃO PRINCIPAL\n\nRealiza grande parte da digestão e da absorção de nutrientes.\n\nDESCRIÇÃO\n\nSuas alças ocupam parte importante do abdome. O trajeto foi simplificado e não mostra o comprimento real.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Digestório · Intestino grosso",
+      "passed": true,
+      "id": "colon",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nIntestino grosso\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNo abdome, contornando parte das alças do intestino delgado e continuando até a pelve.\n\nFUNÇÃO PRINCIPAL\n\nAbsorve água e eletrólitos e participa da formação das fezes.\n\nDESCRIÇÃO\n\nO cólon contorna parte das alças do intestino delgado. O modelo inclui um trajeto resumido até o reto.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Esquelético · Crânio",
+      "passed": true,
+      "id": "skull",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nCrânio\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa cabeça, envolvendo o encéfalo e formando a estrutura da face.\n\nFUNÇÃO PRINCIPAL\n\nProtege o encéfalo e forma a estrutura óssea da cabeça.\n\nDESCRIÇÃO\n\nO contorno não individualiza todos os ossos do crânio.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Esquelético · Caixa torácica",
+      "passed": true,
+      "id": "ribs",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nCaixa torácica\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNo tórax, ao redor do coração e dos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nAjuda a proteger órgãos do tórax e participa da mecânica respiratória.\n\nDESCRIÇÃO\n\nÉ formada por costelas, esterno e vértebras torácicas. O desenho mostra um número reduzido de arcos para facilitar a leitura.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Esquelético · Coluna vertebral",
+      "passed": true,
+      "id": "spine",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nColuna vertebral\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa região posterior do tronco, do pescoço à pelve.\n\nFUNÇÃO PRINCIPAL\n\nSustenta o tronco e protege a medula espinal.\n\nDESCRIÇÃO\n\nO modelo resume vértebras e não reproduz as curvaturas fisiológicas em uma vista lateral.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Esquelético · Pelve óssea",
+      "passed": true,
+      "id": "pelvis",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nPelve óssea\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa base do tronco, conectando a coluna aos membros inferiores.\n\nFUNÇÃO PRINCIPAL\n\nTransfere cargas do tronco aos membros inferiores e protege estruturas pélvicas.\n\nDESCRIÇÃO\n\nOs contornos são esquemáticos; diferenças individuais não estão representadas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Esquelético · Úmeros",
+      "passed": true,
+      "id": "humerus",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nÚmeros\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNos braços, entre os ombros e os cotovelos.\n\nFUNÇÃO PRINCIPAL\n\nFormam a parte óssea dos braços, entre ombros e cotovelos.\n\nDESCRIÇÃO\n\nOs dois ossos foram agrupados para seleção. As articulações não são mostradas em detalhe.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Esquelético · Rádios e ulnas",
+      "passed": true,
+      "id": "forearm",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nRádios e ulnas\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNos antebraços, entre os cotovelos e os punhos.\n\nFUNÇÃO PRINCIPAL\n\nFormam o esqueleto dos antebraços.\n\nDESCRIÇÃO\n\nO rádio fica do lado do polegar na posição anatômica; os trajetos no desenho são simplificados.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Esquelético · Fêmures",
+      "passed": true,
+      "id": "femur",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nFêmures\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNas coxas, entre os quadris e os joelhos.\n\nFUNÇÃO PRINCIPAL\n\nSustentam as coxas e transmitem cargas entre quadris e joelhos.\n\nDESCRIÇÃO\n\nSão representados em ambos os lados. Proporções e inserções musculares não são detalhadas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Esquelético · Tíbias e fíbulas",
+      "passed": true,
+      "id": "lowerLeg",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nTíbias e fíbulas\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNas pernas, entre os joelhos e os tornozelos.\n\nFUNÇÃO PRINCIPAL\n\nFormam a estrutura óssea das pernas abaixo dos joelhos.\n\nDESCRIÇÃO\n\nA tíbia suporta a maior parte da carga nesse segmento; a fíbula fica lateralmente.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Coração · seleção depois de zoom e descrição persistente",
+      "passed": true,
+      "panelText": "SISTEMA CARDIOVASCULAR\nCoração\nSISTEMA ANATÔMICO\nCardiovascular\nLOCALIZAÇÃO\nNo tórax, entre os pulmões, com maior parte à esquerda da linha média.\n\nFUNÇÃO PRINCIPAL\n\nBombeia sangue para os pulmões e para o restante do corpo.\n\nDESCRIÇÃO\n\nFica no mediastino, entre os pulmões, com maior parte à esquerda da linha média do corpo. O desenho não separa suas quatro câmaras.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema cardiovascular ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Seleção de órgão por teclado",
+      "passed": true,
+      "panelText": "SISTEMA DIGESTÓRIO\nFígado\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nPrincipalmente na parte superior direita do abdome, sob o diafragma.\n\nFUNÇÃO PRINCIPAL\n\nProduz bile e participa do metabolismo e processamento de substâncias.\n\nDESCRIÇÃO\n\nOcupa principalmente a parte superior direita do abdome. Nesta vista anterior, esse lado aparece à esquerda da imagem.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "DNA preservado",
+      "passed": true,
+      "panelText": "C · Citosina"
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Biblioteca preservada, navegação e layout sem rolagem lateral",
+      "passed": true
+    },
+    {
+      "viewport": 1440,
+      "input": "mouse",
+      "case": "Sem erros JavaScript ou de recursos no console",
+      "passed": true,
+      "consoleErrors": []
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Painel começa com a instrução e módulo de proteínas ausente",
+      "passed": true,
+      "panelText": "◎\n\nSelecione uma estrutura para conhecer sua função.\n\nClique ou toque diretamente na ilustração. A descrição ficará aqui até você escolher outra estrutura."
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula animal · Membrana plasmática",
+      "passed": true,
+      "id": "membrane",
+      "panelText": "CÉLULA ANIMAL\nMembrana plasmática\n\nFUNÇÃO BIOLÓGICA\n\nDelimita a célula e regula a passagem de substâncias.\n\nDESCRIÇÃO\n\nA bicamada de lipídios contém proteínas. Na célula vegetal, fica por dentro da parede celular.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula animal · Núcleo",
+      "passed": true,
+      "id": "nucleus",
+      "panelText": "CÉLULA ANIMAL\nNúcleo\n\nFUNÇÃO BIOLÓGICA\n\nAbriga a maior parte do DNA e participa do controle da atividade celular.\n\nDESCRIÇÃO\n\nÉ envolvido por duas membranas com poros. A posição e o tamanho variam entre células.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula animal · Nucléolo",
+      "passed": true,
+      "id": "nucleolus",
+      "panelText": "CÉLULA ANIMAL\nNucléolo\n\nFUNÇÃO BIOLÓGICA\n\nParticipa da produção dos componentes dos ribossomos.\n\nDESCRIÇÃO\n\nÉ uma região do núcleo, sem membrana própria. Não é um pequeno núcleo separado.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula animal · Mitocôndrias",
+      "passed": true,
+      "id": "mitochondria",
+      "panelText": "CÉLULA ANIMAL\nMitocôndrias\n\nFUNÇÃO BIOLÓGICA\n\nParticipam da respiração celular e da produção de ATP.\n\nDESCRIÇÃO\n\nTêm duas membranas; a interna forma cristas. Células vegetais também possuem mitocôndrias.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula animal · Retículo endoplasmático",
+      "passed": true,
+      "id": "er",
+      "panelText": "CÉLULA ANIMAL\nRetículo endoplasmático\n\nFUNÇÃO BIOLÓGICA\n\nForma uma rede de membranas envolvida na produção e no transporte de moléculas.\n\nDESCRIÇÃO\n\nO retículo rugoso possui ribossomos associados; o liso participa da síntese de lipídios, entre outras funções.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula animal · Complexo de Golgi",
+      "passed": true,
+      "id": "golgi",
+      "panelText": "CÉLULA ANIMAL\nComplexo de Golgi\n\nFUNÇÃO BIOLÓGICA\n\nModifica e organiza moléculas para diferentes destinos.\n\nDESCRIÇÃO\n\nSeus compartimentos membranosos recebem e enviam vesículas. Trabalha em conjunto com o retículo.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula animal · Ribossomos",
+      "passed": true,
+      "id": "ribosomes",
+      "panelText": "CÉLULA ANIMAL\nRibossomos\n\nFUNÇÃO BIOLÓGICA\n\nProduzem proteínas a partir da informação do RNA mensageiro.\n\nDESCRIÇÃO\n\nPodem estar livres ou associados ao retículo. Não são envolvidos por membrana; os pontos foram ampliados para facilitar a seleção.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula animal · Lisossomos",
+      "passed": true,
+      "id": "lysosomes",
+      "panelText": "CÉLULA ANIMAL\nLisossomos\n\nFUNÇÃO BIOLÓGICA\n\nDegradam materiais e participam da reciclagem celular.\n\nDESCRIÇÃO\n\nContêm enzimas que atuam em meio ácido. Nas células vegetais, vacúolos líticos podem desempenhar funções semelhantes.\n\nEstrutura mostrada no modelo animal.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula animal · Centrossomo",
+      "passed": true,
+      "id": "centrosome",
+      "panelText": "CÉLULA ANIMAL\nCentrossomo\n\nFUNÇÃO BIOLÓGICA\n\nOrganiza microtúbulos em muitas células animais.\n\nDESCRIÇÃO\n\nO modelo mostra um par de centríolos. A organização dos microtúbulos nas plantas superiores é diferente.\n\nEstrutura mostrada no modelo animal.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula animal · seleção depois de zoom",
+      "passed": true,
+      "panelText": "CÉLULA ANIMAL\nMitocôndrias\n\nFUNÇÃO BIOLÓGICA\n\nParticipam da respiração celular e da produção de ATP.\n\nDESCRIÇÃO\n\nTêm duas membranas; a interna forma cristas. Células vegetais também possuem mitocôndrias.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula plant · Membrana plasmática",
+      "passed": true,
+      "id": "membrane",
+      "panelText": "CÉLULA VEGETAL\nMembrana plasmática\n\nFUNÇÃO BIOLÓGICA\n\nDelimita a célula e regula a passagem de substâncias.\n\nDESCRIÇÃO\n\nA bicamada de lipídios contém proteínas. Na célula vegetal, fica por dentro da parede celular.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula plant · Núcleo",
+      "passed": true,
+      "id": "nucleus",
+      "panelText": "CÉLULA VEGETAL\nNúcleo\n\nFUNÇÃO BIOLÓGICA\n\nAbriga a maior parte do DNA e participa do controle da atividade celular.\n\nDESCRIÇÃO\n\nÉ envolvido por duas membranas com poros. A posição e o tamanho variam entre células.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula plant · Nucléolo",
+      "passed": true,
+      "id": "nucleolus",
+      "panelText": "CÉLULA VEGETAL\nNucléolo\n\nFUNÇÃO BIOLÓGICA\n\nParticipa da produção dos componentes dos ribossomos.\n\nDESCRIÇÃO\n\nÉ uma região do núcleo, sem membrana própria. Não é um pequeno núcleo separado.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula plant · Mitocôndrias",
+      "passed": true,
+      "id": "mitochondria",
+      "panelText": "CÉLULA VEGETAL\nMitocôndrias\n\nFUNÇÃO BIOLÓGICA\n\nParticipam da respiração celular e da produção de ATP.\n\nDESCRIÇÃO\n\nTêm duas membranas; a interna forma cristas. Células vegetais também possuem mitocôndrias.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula plant · Retículo endoplasmático",
+      "passed": true,
+      "id": "er",
+      "panelText": "CÉLULA VEGETAL\nRetículo endoplasmático\n\nFUNÇÃO BIOLÓGICA\n\nForma uma rede de membranas envolvida na produção e no transporte de moléculas.\n\nDESCRIÇÃO\n\nO retículo rugoso possui ribossomos associados; o liso participa da síntese de lipídios, entre outras funções.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula plant · Complexo de Golgi",
+      "passed": true,
+      "id": "golgi",
+      "panelText": "CÉLULA VEGETAL\nComplexo de Golgi\n\nFUNÇÃO BIOLÓGICA\n\nModifica e organiza moléculas para diferentes destinos.\n\nDESCRIÇÃO\n\nSeus compartimentos membranosos recebem e enviam vesículas. Trabalha em conjunto com o retículo.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula plant · Ribossomos",
+      "passed": true,
+      "id": "ribosomes",
+      "panelText": "CÉLULA VEGETAL\nRibossomos\n\nFUNÇÃO BIOLÓGICA\n\nProduzem proteínas a partir da informação do RNA mensageiro.\n\nDESCRIÇÃO\n\nPodem estar livres ou associados ao retículo. Não são envolvidos por membrana; os pontos foram ampliados para facilitar a seleção.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula plant · Cloroplastos",
+      "passed": true,
+      "id": "chloroplasts",
+      "panelText": "CÉLULA VEGETAL\nCloroplastos\n\nFUNÇÃO BIOLÓGICA\n\nRealizam a fotossíntese em células vegetais fotossintetizantes.\n\nDESCRIÇÃO\n\nContêm clorofila e membranas internas organizadas em tilacoides. Nem toda célula de uma planta possui cloroplastos: células das raízes, por exemplo, geralmente não os apresentam.\n\nCaracterística do modelo vegetal selecionado.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula plant · Vacúolo central",
+      "passed": true,
+      "id": "vacuole",
+      "panelText": "CÉLULA VEGETAL\nVacúolo central\n\nFUNÇÃO BIOLÓGICA\n\nArmazena substâncias e ajuda a manter o equilíbrio de água e o turgor.\n\nDESCRIÇÃO\n\nÉ característico de muitas células vegetais maduras. Células animais podem ter pequenos compartimentos vacuolares, mas não este grande vacúolo central típico.\n\nCaracterística do modelo vegetal selecionado.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula plant · Parede celular",
+      "passed": true,
+      "id": "wall",
+      "panelText": "CÉLULA VEGETAL\nParede celular\n\nFUNÇÃO BIOLÓGICA\n\nOferece sustentação e proteção à célula vegetal.\n\nDESCRIÇÃO\n\nFica externamente à membrana e contém celulose. Não substitui a membrana plasmática.\n\nCaracterística do modelo vegetal selecionado.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Célula plant · seleção depois de zoom",
+      "passed": true,
+      "panelText": "CÉLULA VEGETAL\nMitocôndrias\n\nFUNÇÃO BIOLÓGICA\n\nParticipam da respiração celular e da produção de ATP.\n\nDESCRIÇÃO\n\nTêm duas membranas; a interna forma cristas. Células vegetais também possuem mitocôndrias.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Células · arraste não seleciona e o clique seguinte funciona",
+      "passed": true,
+      "panelText": "CÉLULA ANIMAL\nMitocôndrias\n\nFUNÇÃO BIOLÓGICA\n\nParticipam da respiração celular e da produção de ATP.\n\nDESCRIÇÃO\n\nTêm duas membranas; a interna forma cristas. Células vegetais também possuem mitocôndrias.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Encéfalo",
+      "passed": true,
+      "id": "brain",
+      "system": "all",
+      "panelText": "SISTEMA NERVOSO\nEncéfalo\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nDentro do crânio, na cabeça.\n\nFUNÇÃO PRINCIPAL\n\nIntegra informações e coordena funções do organismo.\n\nDESCRIÇÃO\n\nO encéfalo inclui cérebro, cerebelo e tronco encefálico. O desenho reúne essas regiões em uma vista esquemática.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Medula espinal",
+      "passed": true,
+      "id": "spinal",
+      "system": "all",
+      "panelText": "SISTEMA NERVOSO\nMedula espinal\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nNo canal vertebral, em continuidade com o tronco encefálico.\n\nFUNÇÃO PRINCIPAL\n\nConduz sinais entre o encéfalo e o corpo e participa de reflexos.\n\nDESCRIÇÃO\n\nSitua-se no canal vertebral. O desenho não representa todos os segmentos ou trajetos nervosos.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Nervos periféricos",
+      "passed": true,
+      "id": "nerves",
+      "system": "all",
+      "panelText": "SISTEMA NERVOSO\nNervos periféricos\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nDistribuídos pelo corpo, ligando o sistema nervoso central aos tecidos.\n\nFUNÇÃO PRINCIPAL\n\nConectam o sistema nervoso central a outras partes do corpo.\n\nDESCRIÇÃO\n\nA rede ilustrada é resumida. Não representa o percurso de cada nervo individual.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Coração",
+      "passed": true,
+      "id": "heart",
+      "system": "all",
+      "panelText": "SISTEMA CARDIOVASCULAR\nCoração\nSISTEMA ANATÔMICO\nCardiovascular\nLOCALIZAÇÃO\nNo tórax, entre os pulmões, com maior parte à esquerda da linha média.\n\nFUNÇÃO PRINCIPAL\n\nBombeia sangue para os pulmões e para o restante do corpo.\n\nDESCRIÇÃO\n\nFica no mediastino, entre os pulmões, com maior parte à esquerda da linha média do corpo. O desenho não separa suas quatro câmaras.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema cardiovascular ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Grandes vasos",
+      "passed": true,
+      "id": "vessels",
+      "system": "all",
+      "panelText": "SISTEMA CARDIOVASCULAR\nGrandes vasos\nSISTEMA ANATÔMICO\nCardiovascular\nLOCALIZAÇÃO\nPercorrem o tórax, o abdome e os membros, conectados ao coração.\n\nFUNÇÃO PRINCIPAL\n\nTransportam sangue entre coração, órgãos e tecidos.\n\nDESCRIÇÃO\n\nVermelho e azul distinguem trajetos arteriais e venosos esquemáticos. Não significam que o sangue venoso seja azul; vasos pulmonares não estão detalhados.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema cardiovascular ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Pulmões",
+      "passed": true,
+      "id": "lungs",
+      "system": "all",
+      "panelText": "SISTEMA RESPIRATÓRIO\nPulmões\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nNa cavidade torácica, um de cada lado do mediastino.\n\nFUNÇÃO PRINCIPAL\n\nRealizam trocas de oxigênio e dióxido de carbono com o sangue.\n\nDESCRIÇÃO\n\nO pulmão direito tem três lobos; o esquerdo tem dois e uma incisura cardíaca. As linhas de lobos são apenas orientativas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Traqueia e brônquios principais",
+      "passed": true,
+      "id": "trachea",
+      "system": "all",
+      "panelText": "SISTEMA RESPIRATÓRIO\nTraqueia e brônquios principais\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nEntre o pescoço e o tórax; os brônquios principais entram nos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nConduzem ar em direção aos pulmões.\n\nDESCRIÇÃO\n\nA traqueia se divide em dois brônquios principais. O modelo não mostra a árvore de bronquíolos e alvéolos.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Diafragma",
+      "passed": true,
+      "id": "diaphragm",
+      "system": "all",
+      "panelText": "SISTEMA RESPIRATÓRIO\nDiafragma\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nEntre as cavidades torácica e abdominal, abaixo dos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nÉ um dos principais músculos da inspiração.\n\nDESCRIÇÃO\n\nSepara as cavidades torácica e abdominal. Quando se contrai, ajuda a aumentar o volume do tórax.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Esôfago",
+      "passed": true,
+      "id": "esophagus",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nEsôfago\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nDo pescoço ao abdome superior, posteriormente à traqueia e ao coração.\n\nFUNÇÃO PRINCIPAL\n\nConduz o alimento da faringe ao estômago.\n\nDESCRIÇÃO\n\nPassa posteriormente à traqueia e atravessa o diafragma. Nesta vista didática, parte do trajeto foi exposta para ser selecionável.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Fígado",
+      "passed": true,
+      "id": "liver",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nFígado\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nPrincipalmente na parte superior direita do abdome, sob o diafragma.\n\nFUNÇÃO PRINCIPAL\n\nProduz bile e participa do metabolismo e processamento de substâncias.\n\nDESCRIÇÃO\n\nOcupa principalmente a parte superior direita do abdome. Nesta vista anterior, esse lado aparece à esquerda da imagem.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Estômago",
+      "passed": true,
+      "id": "stomach",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nEstômago\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nPrincipalmente na parte superior esquerda do abdome.\n\nFUNÇÃO PRINCIPAL\n\nArmazena, mistura e inicia parte da digestão química dos alimentos.\n\nDESCRIÇÃO\n\nFica sobretudo no lado superior esquerdo do abdome, aparecendo à direita da imagem.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Pâncreas",
+      "passed": true,
+      "id": "pancreas",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nPâncreas\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNo abdome superior, em grande parte posteriormente ao estômago.\n\nFUNÇÃO PRINCIPAL\n\nProduz secreções digestivas e hormônios como insulina e glucagon.\n\nDESCRIÇÃO\n\nLocaliza-se em grande parte atrás do estômago. É mostrado de forma exposta para permitir a exploração; também pertence ao sistema endócrino.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Intestino delgado",
+      "passed": true,
+      "id": "smallIntestine",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nIntestino delgado\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNa cavidade abdominal, com alças sobretudo na região central e inferior.\n\nFUNÇÃO PRINCIPAL\n\nRealiza grande parte da digestão e da absorção de nutrientes.\n\nDESCRIÇÃO\n\nSuas alças ocupam parte importante do abdome. O trajeto foi simplificado e não mostra o comprimento real.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Intestino grosso",
+      "passed": true,
+      "id": "colon",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nIntestino grosso\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNo abdome, contornando parte das alças do intestino delgado e continuando até a pelve.\n\nFUNÇÃO PRINCIPAL\n\nAbsorve água e eletrólitos e participa da formação das fezes.\n\nDESCRIÇÃO\n\nO cólon contorna parte das alças do intestino delgado. O modelo inclui um trajeto resumido até o reto.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Crânio",
+      "passed": true,
+      "id": "skull",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nCrânio\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa cabeça, envolvendo o encéfalo e formando a estrutura da face.\n\nFUNÇÃO PRINCIPAL\n\nProtege o encéfalo e forma a estrutura óssea da cabeça.\n\nDESCRIÇÃO\n\nO contorno não individualiza todos os ossos do crânio.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Caixa torácica",
+      "passed": true,
+      "id": "ribs",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nCaixa torácica\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNo tórax, ao redor do coração e dos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nAjuda a proteger órgãos do tórax e participa da mecânica respiratória.\n\nDESCRIÇÃO\n\nÉ formada por costelas, esterno e vértebras torácicas. O desenho mostra um número reduzido de arcos para facilitar a leitura.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Coluna vertebral",
+      "passed": true,
+      "id": "spine",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nColuna vertebral\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa região posterior do tronco, do pescoço à pelve.\n\nFUNÇÃO PRINCIPAL\n\nSustenta o tronco e protege a medula espinal.\n\nDESCRIÇÃO\n\nO modelo resume vértebras e não reproduz as curvaturas fisiológicas em uma vista lateral.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Pelve óssea",
+      "passed": true,
+      "id": "pelvis",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nPelve óssea\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa base do tronco, conectando a coluna aos membros inferiores.\n\nFUNÇÃO PRINCIPAL\n\nTransfere cargas do tronco aos membros inferiores e protege estruturas pélvicas.\n\nDESCRIÇÃO\n\nOs contornos são esquemáticos; diferenças individuais não estão representadas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Úmeros",
+      "passed": true,
+      "id": "humerus",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nÚmeros\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNos braços, entre os ombros e os cotovelos.\n\nFUNÇÃO PRINCIPAL\n\nFormam a parte óssea dos braços, entre ombros e cotovelos.\n\nDESCRIÇÃO\n\nOs dois ossos foram agrupados para seleção. As articulações não são mostradas em detalhe.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Rádios e ulnas",
+      "passed": true,
+      "id": "forearm",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nRádios e ulnas\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNos antebraços, entre os cotovelos e os punhos.\n\nFUNÇÃO PRINCIPAL\n\nFormam o esqueleto dos antebraços.\n\nDESCRIÇÃO\n\nO rádio fica do lado do polegar na posição anatômica; os trajetos no desenho são simplificados.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Fêmures",
+      "passed": true,
+      "id": "femur",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nFêmures\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNas coxas, entre os quadris e os joelhos.\n\nFUNÇÃO PRINCIPAL\n\nSustentam as coxas e transmitem cargas entre quadris e joelhos.\n\nDESCRIÇÃO\n\nSão representados em ambos os lados. Proporções e inserções musculares não são detalhadas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Visão integrada · Tíbias e fíbulas",
+      "passed": true,
+      "id": "lowerLeg",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nTíbias e fíbulas\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNas pernas, entre os joelhos e os tornozelos.\n\nFUNÇÃO PRINCIPAL\n\nFormam a estrutura óssea das pernas abaixo dos joelhos.\n\nDESCRIÇÃO\n\nA tíbia suporta a maior parte da carga nesse segmento; a fíbula fica lateralmente.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Nervoso · Encéfalo",
+      "passed": true,
+      "id": "brain",
+      "system": "nervous",
+      "panelText": "SISTEMA NERVOSO\nEncéfalo\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nDentro do crânio, na cabeça.\n\nFUNÇÃO PRINCIPAL\n\nIntegra informações e coordena funções do organismo.\n\nDESCRIÇÃO\n\nO encéfalo inclui cérebro, cerebelo e tronco encefálico. O desenho reúne essas regiões em uma vista esquemática.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Nervoso · Medula espinal",
+      "passed": true,
+      "id": "spinal",
+      "system": "nervous",
+      "panelText": "SISTEMA NERVOSO\nMedula espinal\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nNo canal vertebral, em continuidade com o tronco encefálico.\n\nFUNÇÃO PRINCIPAL\n\nConduz sinais entre o encéfalo e o corpo e participa de reflexos.\n\nDESCRIÇÃO\n\nSitua-se no canal vertebral. O desenho não representa todos os segmentos ou trajetos nervosos.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Nervoso · Nervos periféricos",
+      "passed": true,
+      "id": "nerves",
+      "system": "nervous",
+      "panelText": "SISTEMA NERVOSO\nNervos periféricos\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nDistribuídos pelo corpo, ligando o sistema nervoso central aos tecidos.\n\nFUNÇÃO PRINCIPAL\n\nConectam o sistema nervoso central a outras partes do corpo.\n\nDESCRIÇÃO\n\nA rede ilustrada é resumida. Não representa o percurso de cada nervo individual.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Cardiovascular · Coração",
+      "passed": true,
+      "id": "heart",
+      "system": "cardiovascular",
+      "panelText": "SISTEMA CARDIOVASCULAR\nCoração\nSISTEMA ANATÔMICO\nCardiovascular\nLOCALIZAÇÃO\nNo tórax, entre os pulmões, com maior parte à esquerda da linha média.\n\nFUNÇÃO PRINCIPAL\n\nBombeia sangue para os pulmões e para o restante do corpo.\n\nDESCRIÇÃO\n\nFica no mediastino, entre os pulmões, com maior parte à esquerda da linha média do corpo. O desenho não separa suas quatro câmaras.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema cardiovascular ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Cardiovascular · Grandes vasos",
+      "passed": true,
+      "id": "vessels",
+      "system": "cardiovascular",
+      "panelText": "SISTEMA CARDIOVASCULAR\nGrandes vasos\nSISTEMA ANATÔMICO\nCardiovascular\nLOCALIZAÇÃO\nPercorrem o tórax, o abdome e os membros, conectados ao coração.\n\nFUNÇÃO PRINCIPAL\n\nTransportam sangue entre coração, órgãos e tecidos.\n\nDESCRIÇÃO\n\nVermelho e azul distinguem trajetos arteriais e venosos esquemáticos. Não significam que o sangue venoso seja azul; vasos pulmonares não estão detalhados.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema cardiovascular ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Respiratório · Pulmões",
+      "passed": true,
+      "id": "lungs",
+      "system": "respiratory",
+      "panelText": "SISTEMA RESPIRATÓRIO\nPulmões\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nNa cavidade torácica, um de cada lado do mediastino.\n\nFUNÇÃO PRINCIPAL\n\nRealizam trocas de oxigênio e dióxido de carbono com o sangue.\n\nDESCRIÇÃO\n\nO pulmão direito tem três lobos; o esquerdo tem dois e uma incisura cardíaca. As linhas de lobos são apenas orientativas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Respiratório · Traqueia e brônquios principais",
+      "passed": true,
+      "id": "trachea",
+      "system": "respiratory",
+      "panelText": "SISTEMA RESPIRATÓRIO\nTraqueia e brônquios principais\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nEntre o pescoço e o tórax; os brônquios principais entram nos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nConduzem ar em direção aos pulmões.\n\nDESCRIÇÃO\n\nA traqueia se divide em dois brônquios principais. O modelo não mostra a árvore de bronquíolos e alvéolos.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Respiratório · Diafragma",
+      "passed": true,
+      "id": "diaphragm",
+      "system": "respiratory",
+      "panelText": "SISTEMA RESPIRATÓRIO\nDiafragma\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nEntre as cavidades torácica e abdominal, abaixo dos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nÉ um dos principais músculos da inspiração.\n\nDESCRIÇÃO\n\nSepara as cavidades torácica e abdominal. Quando se contrai, ajuda a aumentar o volume do tórax.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Digestório · Esôfago",
+      "passed": true,
+      "id": "esophagus",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nEsôfago\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nDo pescoço ao abdome superior, posteriormente à traqueia e ao coração.\n\nFUNÇÃO PRINCIPAL\n\nConduz o alimento da faringe ao estômago.\n\nDESCRIÇÃO\n\nPassa posteriormente à traqueia e atravessa o diafragma. Nesta vista didática, parte do trajeto foi exposta para ser selecionável.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Digestório · Fígado",
+      "passed": true,
+      "id": "liver",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nFígado\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nPrincipalmente na parte superior direita do abdome, sob o diafragma.\n\nFUNÇÃO PRINCIPAL\n\nProduz bile e participa do metabolismo e processamento de substâncias.\n\nDESCRIÇÃO\n\nOcupa principalmente a parte superior direita do abdome. Nesta vista anterior, esse lado aparece à esquerda da imagem.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Digestório · Estômago",
+      "passed": true,
+      "id": "stomach",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nEstômago\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nPrincipalmente na parte superior esquerda do abdome.\n\nFUNÇÃO PRINCIPAL\n\nArmazena, mistura e inicia parte da digestão química dos alimentos.\n\nDESCRIÇÃO\n\nFica sobretudo no lado superior esquerdo do abdome, aparecendo à direita da imagem.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Digestório · Pâncreas",
+      "passed": true,
+      "id": "pancreas",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nPâncreas\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNo abdome superior, em grande parte posteriormente ao estômago.\n\nFUNÇÃO PRINCIPAL\n\nProduz secreções digestivas e hormônios como insulina e glucagon.\n\nDESCRIÇÃO\n\nLocaliza-se em grande parte atrás do estômago. É mostrado de forma exposta para permitir a exploração; também pertence ao sistema endócrino.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Digestório · Intestino delgado",
+      "passed": true,
+      "id": "smallIntestine",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nIntestino delgado\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNa cavidade abdominal, com alças sobretudo na região central e inferior.\n\nFUNÇÃO PRINCIPAL\n\nRealiza grande parte da digestão e da absorção de nutrientes.\n\nDESCRIÇÃO\n\nSuas alças ocupam parte importante do abdome. O trajeto foi simplificado e não mostra o comprimento real.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Digestório · Intestino grosso",
+      "passed": true,
+      "id": "colon",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nIntestino grosso\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNo abdome, contornando parte das alças do intestino delgado e continuando até a pelve.\n\nFUNÇÃO PRINCIPAL\n\nAbsorve água e eletrólitos e participa da formação das fezes.\n\nDESCRIÇÃO\n\nO cólon contorna parte das alças do intestino delgado. O modelo inclui um trajeto resumido até o reto.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Esquelético · Crânio",
+      "passed": true,
+      "id": "skull",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nCrânio\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa cabeça, envolvendo o encéfalo e formando a estrutura da face.\n\nFUNÇÃO PRINCIPAL\n\nProtege o encéfalo e forma a estrutura óssea da cabeça.\n\nDESCRIÇÃO\n\nO contorno não individualiza todos os ossos do crânio.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Esquelético · Caixa torácica",
+      "passed": true,
+      "id": "ribs",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nCaixa torácica\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNo tórax, ao redor do coração e dos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nAjuda a proteger órgãos do tórax e participa da mecânica respiratória.\n\nDESCRIÇÃO\n\nÉ formada por costelas, esterno e vértebras torácicas. O desenho mostra um número reduzido de arcos para facilitar a leitura.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Esquelético · Coluna vertebral",
+      "passed": true,
+      "id": "spine",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nColuna vertebral\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa região posterior do tronco, do pescoço à pelve.\n\nFUNÇÃO PRINCIPAL\n\nSustenta o tronco e protege a medula espinal.\n\nDESCRIÇÃO\n\nO modelo resume vértebras e não reproduz as curvaturas fisiológicas em uma vista lateral.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Esquelético · Pelve óssea",
+      "passed": true,
+      "id": "pelvis",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nPelve óssea\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa base do tronco, conectando a coluna aos membros inferiores.\n\nFUNÇÃO PRINCIPAL\n\nTransfere cargas do tronco aos membros inferiores e protege estruturas pélvicas.\n\nDESCRIÇÃO\n\nOs contornos são esquemáticos; diferenças individuais não estão representadas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Esquelético · Úmeros",
+      "passed": true,
+      "id": "humerus",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nÚmeros\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNos braços, entre os ombros e os cotovelos.\n\nFUNÇÃO PRINCIPAL\n\nFormam a parte óssea dos braços, entre ombros e cotovelos.\n\nDESCRIÇÃO\n\nOs dois ossos foram agrupados para seleção. As articulações não são mostradas em detalhe.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Esquelético · Rádios e ulnas",
+      "passed": true,
+      "id": "forearm",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nRádios e ulnas\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNos antebraços, entre os cotovelos e os punhos.\n\nFUNÇÃO PRINCIPAL\n\nFormam o esqueleto dos antebraços.\n\nDESCRIÇÃO\n\nO rádio fica do lado do polegar na posição anatômica; os trajetos no desenho são simplificados.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Esquelético · Fêmures",
+      "passed": true,
+      "id": "femur",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nFêmures\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNas coxas, entre os quadris e os joelhos.\n\nFUNÇÃO PRINCIPAL\n\nSustentam as coxas e transmitem cargas entre quadris e joelhos.\n\nDESCRIÇÃO\n\nSão representados em ambos os lados. Proporções e inserções musculares não são detalhadas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Esquelético · Tíbias e fíbulas",
+      "passed": true,
+      "id": "lowerLeg",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nTíbias e fíbulas\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNas pernas, entre os joelhos e os tornozelos.\n\nFUNÇÃO PRINCIPAL\n\nFormam a estrutura óssea das pernas abaixo dos joelhos.\n\nDESCRIÇÃO\n\nA tíbia suporta a maior parte da carga nesse segmento; a fíbula fica lateralmente.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Coração · seleção depois de zoom e descrição persistente",
+      "passed": true,
+      "panelText": "SISTEMA CARDIOVASCULAR\nCoração\nSISTEMA ANATÔMICO\nCardiovascular\nLOCALIZAÇÃO\nNo tórax, entre os pulmões, com maior parte à esquerda da linha média.\n\nFUNÇÃO PRINCIPAL\n\nBombeia sangue para os pulmões e para o restante do corpo.\n\nDESCRIÇÃO\n\nFica no mediastino, entre os pulmões, com maior parte à esquerda da linha média do corpo. O desenho não separa suas quatro câmaras.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema cardiovascular ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Seleção de órgão por teclado",
+      "passed": true,
+      "panelText": "SISTEMA DIGESTÓRIO\nFígado\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nPrincipalmente na parte superior direita do abdome, sob o diafragma.\n\nFUNÇÃO PRINCIPAL\n\nProduz bile e participa do metabolismo e processamento de substâncias.\n\nDESCRIÇÃO\n\nOcupa principalmente a parte superior direita do abdome. Nesta vista anterior, esse lado aparece à esquerda da imagem.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "DNA preservado",
+      "passed": true,
+      "panelText": "C · Citosina"
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Biblioteca preservada, navegação e layout sem rolagem lateral",
+      "passed": true
+    },
+    {
+      "viewport": 360,
+      "input": "toque",
+      "case": "Sem erros JavaScript ou de recursos no console",
+      "passed": true,
+      "consoleErrors": []
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Painel começa com a instrução e módulo de proteínas ausente",
+      "passed": true,
+      "panelText": "◎\n\nSelecione uma estrutura para conhecer sua função.\n\nClique ou toque diretamente na ilustração. A descrição ficará aqui até você escolher outra estrutura."
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula animal · Membrana plasmática",
+      "passed": true,
+      "id": "membrane",
+      "panelText": "CÉLULA ANIMAL\nMembrana plasmática\n\nFUNÇÃO BIOLÓGICA\n\nDelimita a célula e regula a passagem de substâncias.\n\nDESCRIÇÃO\n\nA bicamada de lipídios contém proteínas. Na célula vegetal, fica por dentro da parede celular.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula animal · Núcleo",
+      "passed": true,
+      "id": "nucleus",
+      "panelText": "CÉLULA ANIMAL\nNúcleo\n\nFUNÇÃO BIOLÓGICA\n\nAbriga a maior parte do DNA e participa do controle da atividade celular.\n\nDESCRIÇÃO\n\nÉ envolvido por duas membranas com poros. A posição e o tamanho variam entre células.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula animal · Nucléolo",
+      "passed": true,
+      "id": "nucleolus",
+      "panelText": "CÉLULA ANIMAL\nNucléolo\n\nFUNÇÃO BIOLÓGICA\n\nParticipa da produção dos componentes dos ribossomos.\n\nDESCRIÇÃO\n\nÉ uma região do núcleo, sem membrana própria. Não é um pequeno núcleo separado.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula animal · Mitocôndrias",
+      "passed": true,
+      "id": "mitochondria",
+      "panelText": "CÉLULA ANIMAL\nMitocôndrias\n\nFUNÇÃO BIOLÓGICA\n\nParticipam da respiração celular e da produção de ATP.\n\nDESCRIÇÃO\n\nTêm duas membranas; a interna forma cristas. Células vegetais também possuem mitocôndrias.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula animal · Retículo endoplasmático",
+      "passed": true,
+      "id": "er",
+      "panelText": "CÉLULA ANIMAL\nRetículo endoplasmático\n\nFUNÇÃO BIOLÓGICA\n\nForma uma rede de membranas envolvida na produção e no transporte de moléculas.\n\nDESCRIÇÃO\n\nO retículo rugoso possui ribossomos associados; o liso participa da síntese de lipídios, entre outras funções.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula animal · Complexo de Golgi",
+      "passed": true,
+      "id": "golgi",
+      "panelText": "CÉLULA ANIMAL\nComplexo de Golgi\n\nFUNÇÃO BIOLÓGICA\n\nModifica e organiza moléculas para diferentes destinos.\n\nDESCRIÇÃO\n\nSeus compartimentos membranosos recebem e enviam vesículas. Trabalha em conjunto com o retículo.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula animal · Ribossomos",
+      "passed": true,
+      "id": "ribosomes",
+      "panelText": "CÉLULA ANIMAL\nRibossomos\n\nFUNÇÃO BIOLÓGICA\n\nProduzem proteínas a partir da informação do RNA mensageiro.\n\nDESCRIÇÃO\n\nPodem estar livres ou associados ao retículo. Não são envolvidos por membrana; os pontos foram ampliados para facilitar a seleção.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula animal · Lisossomos",
+      "passed": true,
+      "id": "lysosomes",
+      "panelText": "CÉLULA ANIMAL\nLisossomos\n\nFUNÇÃO BIOLÓGICA\n\nDegradam materiais e participam da reciclagem celular.\n\nDESCRIÇÃO\n\nContêm enzimas que atuam em meio ácido. Nas células vegetais, vacúolos líticos podem desempenhar funções semelhantes.\n\nEstrutura mostrada no modelo animal.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula animal · Centrossomo",
+      "passed": true,
+      "id": "centrosome",
+      "panelText": "CÉLULA ANIMAL\nCentrossomo\n\nFUNÇÃO BIOLÓGICA\n\nOrganiza microtúbulos em muitas células animais.\n\nDESCRIÇÃO\n\nO modelo mostra um par de centríolos. A organização dos microtúbulos nas plantas superiores é diferente.\n\nEstrutura mostrada no modelo animal.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula animal · seleção depois de zoom",
+      "passed": true,
+      "panelText": "CÉLULA ANIMAL\nMitocôndrias\n\nFUNÇÃO BIOLÓGICA\n\nParticipam da respiração celular e da produção de ATP.\n\nDESCRIÇÃO\n\nTêm duas membranas; a interna forma cristas. Células vegetais também possuem mitocôndrias.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula plant · Membrana plasmática",
+      "passed": true,
+      "id": "membrane",
+      "panelText": "CÉLULA VEGETAL\nMembrana plasmática\n\nFUNÇÃO BIOLÓGICA\n\nDelimita a célula e regula a passagem de substâncias.\n\nDESCRIÇÃO\n\nA bicamada de lipídios contém proteínas. Na célula vegetal, fica por dentro da parede celular.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula plant · Núcleo",
+      "passed": true,
+      "id": "nucleus",
+      "panelText": "CÉLULA VEGETAL\nNúcleo\n\nFUNÇÃO BIOLÓGICA\n\nAbriga a maior parte do DNA e participa do controle da atividade celular.\n\nDESCRIÇÃO\n\nÉ envolvido por duas membranas com poros. A posição e o tamanho variam entre células.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula plant · Nucléolo",
+      "passed": true,
+      "id": "nucleolus",
+      "panelText": "CÉLULA VEGETAL\nNucléolo\n\nFUNÇÃO BIOLÓGICA\n\nParticipa da produção dos componentes dos ribossomos.\n\nDESCRIÇÃO\n\nÉ uma região do núcleo, sem membrana própria. Não é um pequeno núcleo separado.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula plant · Mitocôndrias",
+      "passed": true,
+      "id": "mitochondria",
+      "panelText": "CÉLULA VEGETAL\nMitocôndrias\n\nFUNÇÃO BIOLÓGICA\n\nParticipam da respiração celular e da produção de ATP.\n\nDESCRIÇÃO\n\nTêm duas membranas; a interna forma cristas. Células vegetais também possuem mitocôndrias.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula plant · Retículo endoplasmático",
+      "passed": true,
+      "id": "er",
+      "panelText": "CÉLULA VEGETAL\nRetículo endoplasmático\n\nFUNÇÃO BIOLÓGICA\n\nForma uma rede de membranas envolvida na produção e no transporte de moléculas.\n\nDESCRIÇÃO\n\nO retículo rugoso possui ribossomos associados; o liso participa da síntese de lipídios, entre outras funções.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula plant · Complexo de Golgi",
+      "passed": true,
+      "id": "golgi",
+      "panelText": "CÉLULA VEGETAL\nComplexo de Golgi\n\nFUNÇÃO BIOLÓGICA\n\nModifica e organiza moléculas para diferentes destinos.\n\nDESCRIÇÃO\n\nSeus compartimentos membranosos recebem e enviam vesículas. Trabalha em conjunto com o retículo.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula plant · Ribossomos",
+      "passed": true,
+      "id": "ribosomes",
+      "panelText": "CÉLULA VEGETAL\nRibossomos\n\nFUNÇÃO BIOLÓGICA\n\nProduzem proteínas a partir da informação do RNA mensageiro.\n\nDESCRIÇÃO\n\nPodem estar livres ou associados ao retículo. Não são envolvidos por membrana; os pontos foram ampliados para facilitar a seleção.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula plant · Cloroplastos",
+      "passed": true,
+      "id": "chloroplasts",
+      "panelText": "CÉLULA VEGETAL\nCloroplastos\n\nFUNÇÃO BIOLÓGICA\n\nRealizam a fotossíntese em células vegetais fotossintetizantes.\n\nDESCRIÇÃO\n\nContêm clorofila e membranas internas organizadas em tilacoides. Nem toda célula de uma planta possui cloroplastos: células das raízes, por exemplo, geralmente não os apresentam.\n\nCaracterística do modelo vegetal selecionado.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula plant · Vacúolo central",
+      "passed": true,
+      "id": "vacuole",
+      "panelText": "CÉLULA VEGETAL\nVacúolo central\n\nFUNÇÃO BIOLÓGICA\n\nArmazena substâncias e ajuda a manter o equilíbrio de água e o turgor.\n\nDESCRIÇÃO\n\nÉ característico de muitas células vegetais maduras. Células animais podem ter pequenos compartimentos vacuolares, mas não este grande vacúolo central típico.\n\nCaracterística do modelo vegetal selecionado.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula plant · Parede celular",
+      "passed": true,
+      "id": "wall",
+      "panelText": "CÉLULA VEGETAL\nParede celular\n\nFUNÇÃO BIOLÓGICA\n\nOferece sustentação e proteção à célula vegetal.\n\nDESCRIÇÃO\n\nFica externamente à membrana e contém celulose. Não substitui a membrana plasmática.\n\nCaracterística do modelo vegetal selecionado.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Célula plant · seleção depois de zoom",
+      "passed": true,
+      "panelText": "CÉLULA VEGETAL\nMitocôndrias\n\nFUNÇÃO BIOLÓGICA\n\nParticipam da respiração celular e da produção de ATP.\n\nDESCRIÇÃO\n\nTêm duas membranas; a interna forma cristas. Células vegetais também possuem mitocôndrias.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Células · arraste não seleciona e o clique seguinte funciona",
+      "passed": true,
+      "panelText": "CÉLULA ANIMAL\nMitocôndrias\n\nFUNÇÃO BIOLÓGICA\n\nParticipam da respiração celular e da produção de ATP.\n\nDESCRIÇÃO\n\nTêm duas membranas; a interna forma cristas. Células vegetais também possuem mitocôndrias.\n\nEstá nos dois modelos celulares.\nFonte: OpenStax · células eucarióticas ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Encéfalo",
+      "passed": true,
+      "id": "brain",
+      "system": "all",
+      "panelText": "SISTEMA NERVOSO\nEncéfalo\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nDentro do crânio, na cabeça.\n\nFUNÇÃO PRINCIPAL\n\nIntegra informações e coordena funções do organismo.\n\nDESCRIÇÃO\n\nO encéfalo inclui cérebro, cerebelo e tronco encefálico. O desenho reúne essas regiões em uma vista esquemática.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Medula espinal",
+      "passed": true,
+      "id": "spinal",
+      "system": "all",
+      "panelText": "SISTEMA NERVOSO\nMedula espinal\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nNo canal vertebral, em continuidade com o tronco encefálico.\n\nFUNÇÃO PRINCIPAL\n\nConduz sinais entre o encéfalo e o corpo e participa de reflexos.\n\nDESCRIÇÃO\n\nSitua-se no canal vertebral. O desenho não representa todos os segmentos ou trajetos nervosos.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Nervos periféricos",
+      "passed": true,
+      "id": "nerves",
+      "system": "all",
+      "panelText": "SISTEMA NERVOSO\nNervos periféricos\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nDistribuídos pelo corpo, ligando o sistema nervoso central aos tecidos.\n\nFUNÇÃO PRINCIPAL\n\nConectam o sistema nervoso central a outras partes do corpo.\n\nDESCRIÇÃO\n\nA rede ilustrada é resumida. Não representa o percurso de cada nervo individual.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Coração",
+      "passed": true,
+      "id": "heart",
+      "system": "all",
+      "panelText": "SISTEMA CARDIOVASCULAR\nCoração\nSISTEMA ANATÔMICO\nCardiovascular\nLOCALIZAÇÃO\nNo tórax, entre os pulmões, com maior parte à esquerda da linha média.\n\nFUNÇÃO PRINCIPAL\n\nBombeia sangue para os pulmões e para o restante do corpo.\n\nDESCRIÇÃO\n\nFica no mediastino, entre os pulmões, com maior parte à esquerda da linha média do corpo. O desenho não separa suas quatro câmaras.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema cardiovascular ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Grandes vasos",
+      "passed": true,
+      "id": "vessels",
+      "system": "all",
+      "panelText": "SISTEMA CARDIOVASCULAR\nGrandes vasos\nSISTEMA ANATÔMICO\nCardiovascular\nLOCALIZAÇÃO\nPercorrem o tórax, o abdome e os membros, conectados ao coração.\n\nFUNÇÃO PRINCIPAL\n\nTransportam sangue entre coração, órgãos e tecidos.\n\nDESCRIÇÃO\n\nVermelho e azul distinguem trajetos arteriais e venosos esquemáticos. Não significam que o sangue venoso seja azul; vasos pulmonares não estão detalhados.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema cardiovascular ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Pulmões",
+      "passed": true,
+      "id": "lungs",
+      "system": "all",
+      "panelText": "SISTEMA RESPIRATÓRIO\nPulmões\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nNa cavidade torácica, um de cada lado do mediastino.\n\nFUNÇÃO PRINCIPAL\n\nRealizam trocas de oxigênio e dióxido de carbono com o sangue.\n\nDESCRIÇÃO\n\nO pulmão direito tem três lobos; o esquerdo tem dois e uma incisura cardíaca. As linhas de lobos são apenas orientativas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Traqueia e brônquios principais",
+      "passed": true,
+      "id": "trachea",
+      "system": "all",
+      "panelText": "SISTEMA RESPIRATÓRIO\nTraqueia e brônquios principais\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nEntre o pescoço e o tórax; os brônquios principais entram nos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nConduzem ar em direção aos pulmões.\n\nDESCRIÇÃO\n\nA traqueia se divide em dois brônquios principais. O modelo não mostra a árvore de bronquíolos e alvéolos.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Diafragma",
+      "passed": true,
+      "id": "diaphragm",
+      "system": "all",
+      "panelText": "SISTEMA RESPIRATÓRIO\nDiafragma\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nEntre as cavidades torácica e abdominal, abaixo dos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nÉ um dos principais músculos da inspiração.\n\nDESCRIÇÃO\n\nSepara as cavidades torácica e abdominal. Quando se contrai, ajuda a aumentar o volume do tórax.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Esôfago",
+      "passed": true,
+      "id": "esophagus",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nEsôfago\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nDo pescoço ao abdome superior, posteriormente à traqueia e ao coração.\n\nFUNÇÃO PRINCIPAL\n\nConduz o alimento da faringe ao estômago.\n\nDESCRIÇÃO\n\nPassa posteriormente à traqueia e atravessa o diafragma. Nesta vista didática, parte do trajeto foi exposta para ser selecionável.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Fígado",
+      "passed": true,
+      "id": "liver",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nFígado\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nPrincipalmente na parte superior direita do abdome, sob o diafragma.\n\nFUNÇÃO PRINCIPAL\n\nProduz bile e participa do metabolismo e processamento de substâncias.\n\nDESCRIÇÃO\n\nOcupa principalmente a parte superior direita do abdome. Nesta vista anterior, esse lado aparece à esquerda da imagem.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Estômago",
+      "passed": true,
+      "id": "stomach",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nEstômago\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nPrincipalmente na parte superior esquerda do abdome.\n\nFUNÇÃO PRINCIPAL\n\nArmazena, mistura e inicia parte da digestão química dos alimentos.\n\nDESCRIÇÃO\n\nFica sobretudo no lado superior esquerdo do abdome, aparecendo à direita da imagem.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Pâncreas",
+      "passed": true,
+      "id": "pancreas",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nPâncreas\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNo abdome superior, em grande parte posteriormente ao estômago.\n\nFUNÇÃO PRINCIPAL\n\nProduz secreções digestivas e hormônios como insulina e glucagon.\n\nDESCRIÇÃO\n\nLocaliza-se em grande parte atrás do estômago. É mostrado de forma exposta para permitir a exploração; também pertence ao sistema endócrino.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Intestino delgado",
+      "passed": true,
+      "id": "smallIntestine",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nIntestino delgado\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNa cavidade abdominal, com alças sobretudo na região central e inferior.\n\nFUNÇÃO PRINCIPAL\n\nRealiza grande parte da digestão e da absorção de nutrientes.\n\nDESCRIÇÃO\n\nSuas alças ocupam parte importante do abdome. O trajeto foi simplificado e não mostra o comprimento real.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Intestino grosso",
+      "passed": true,
+      "id": "colon",
+      "system": "all",
+      "panelText": "SISTEMA DIGESTÓRIO\nIntestino grosso\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNo abdome, contornando parte das alças do intestino delgado e continuando até a pelve.\n\nFUNÇÃO PRINCIPAL\n\nAbsorve água e eletrólitos e participa da formação das fezes.\n\nDESCRIÇÃO\n\nO cólon contorna parte das alças do intestino delgado. O modelo inclui um trajeto resumido até o reto.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Crânio",
+      "passed": true,
+      "id": "skull",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nCrânio\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa cabeça, envolvendo o encéfalo e formando a estrutura da face.\n\nFUNÇÃO PRINCIPAL\n\nProtege o encéfalo e forma a estrutura óssea da cabeça.\n\nDESCRIÇÃO\n\nO contorno não individualiza todos os ossos do crânio.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Caixa torácica",
+      "passed": true,
+      "id": "ribs",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nCaixa torácica\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNo tórax, ao redor do coração e dos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nAjuda a proteger órgãos do tórax e participa da mecânica respiratória.\n\nDESCRIÇÃO\n\nÉ formada por costelas, esterno e vértebras torácicas. O desenho mostra um número reduzido de arcos para facilitar a leitura.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Coluna vertebral",
+      "passed": true,
+      "id": "spine",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nColuna vertebral\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa região posterior do tronco, do pescoço à pelve.\n\nFUNÇÃO PRINCIPAL\n\nSustenta o tronco e protege a medula espinal.\n\nDESCRIÇÃO\n\nO modelo resume vértebras e não reproduz as curvaturas fisiológicas em uma vista lateral.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Pelve óssea",
+      "passed": true,
+      "id": "pelvis",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nPelve óssea\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa base do tronco, conectando a coluna aos membros inferiores.\n\nFUNÇÃO PRINCIPAL\n\nTransfere cargas do tronco aos membros inferiores e protege estruturas pélvicas.\n\nDESCRIÇÃO\n\nOs contornos são esquemáticos; diferenças individuais não estão representadas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Úmeros",
+      "passed": true,
+      "id": "humerus",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nÚmeros\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNos braços, entre os ombros e os cotovelos.\n\nFUNÇÃO PRINCIPAL\n\nFormam a parte óssea dos braços, entre ombros e cotovelos.\n\nDESCRIÇÃO\n\nOs dois ossos foram agrupados para seleção. As articulações não são mostradas em detalhe.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Rádios e ulnas",
+      "passed": true,
+      "id": "forearm",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nRádios e ulnas\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNos antebraços, entre os cotovelos e os punhos.\n\nFUNÇÃO PRINCIPAL\n\nFormam o esqueleto dos antebraços.\n\nDESCRIÇÃO\n\nO rádio fica do lado do polegar na posição anatômica; os trajetos no desenho são simplificados.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Fêmures",
+      "passed": true,
+      "id": "femur",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nFêmures\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNas coxas, entre os quadris e os joelhos.\n\nFUNÇÃO PRINCIPAL\n\nSustentam as coxas e transmitem cargas entre quadris e joelhos.\n\nDESCRIÇÃO\n\nSão representados em ambos os lados. Proporções e inserções musculares não são detalhadas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Visão integrada · Tíbias e fíbulas",
+      "passed": true,
+      "id": "lowerLeg",
+      "system": "all",
+      "panelText": "SISTEMA ESQUELÉTICO\nTíbias e fíbulas\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNas pernas, entre os joelhos e os tornozelos.\n\nFUNÇÃO PRINCIPAL\n\nFormam a estrutura óssea das pernas abaixo dos joelhos.\n\nDESCRIÇÃO\n\nA tíbia suporta a maior parte da carga nesse segmento; a fíbula fica lateralmente.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Nervoso · Encéfalo",
+      "passed": true,
+      "id": "brain",
+      "system": "nervous",
+      "panelText": "SISTEMA NERVOSO\nEncéfalo\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nDentro do crânio, na cabeça.\n\nFUNÇÃO PRINCIPAL\n\nIntegra informações e coordena funções do organismo.\n\nDESCRIÇÃO\n\nO encéfalo inclui cérebro, cerebelo e tronco encefálico. O desenho reúne essas regiões em uma vista esquemática.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Nervoso · Medula espinal",
+      "passed": true,
+      "id": "spinal",
+      "system": "nervous",
+      "panelText": "SISTEMA NERVOSO\nMedula espinal\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nNo canal vertebral, em continuidade com o tronco encefálico.\n\nFUNÇÃO PRINCIPAL\n\nConduz sinais entre o encéfalo e o corpo e participa de reflexos.\n\nDESCRIÇÃO\n\nSitua-se no canal vertebral. O desenho não representa todos os segmentos ou trajetos nervosos.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Nervoso · Nervos periféricos",
+      "passed": true,
+      "id": "nerves",
+      "system": "nervous",
+      "panelText": "SISTEMA NERVOSO\nNervos periféricos\nSISTEMA ANATÔMICO\nNervoso\nLOCALIZAÇÃO\nDistribuídos pelo corpo, ligando o sistema nervoso central aos tecidos.\n\nFUNÇÃO PRINCIPAL\n\nConectam o sistema nervoso central a outras partes do corpo.\n\nDESCRIÇÃO\n\nA rede ilustrada é resumida. Não representa o percurso de cada nervo individual.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema nervoso ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Cardiovascular · Coração",
+      "passed": true,
+      "id": "heart",
+      "system": "cardiovascular",
+      "panelText": "SISTEMA CARDIOVASCULAR\nCoração\nSISTEMA ANATÔMICO\nCardiovascular\nLOCALIZAÇÃO\nNo tórax, entre os pulmões, com maior parte à esquerda da linha média.\n\nFUNÇÃO PRINCIPAL\n\nBombeia sangue para os pulmões e para o restante do corpo.\n\nDESCRIÇÃO\n\nFica no mediastino, entre os pulmões, com maior parte à esquerda da linha média do corpo. O desenho não separa suas quatro câmaras.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema cardiovascular ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Cardiovascular · Grandes vasos",
+      "passed": true,
+      "id": "vessels",
+      "system": "cardiovascular",
+      "panelText": "SISTEMA CARDIOVASCULAR\nGrandes vasos\nSISTEMA ANATÔMICO\nCardiovascular\nLOCALIZAÇÃO\nPercorrem o tórax, o abdome e os membros, conectados ao coração.\n\nFUNÇÃO PRINCIPAL\n\nTransportam sangue entre coração, órgãos e tecidos.\n\nDESCRIÇÃO\n\nVermelho e azul distinguem trajetos arteriais e venosos esquemáticos. Não significam que o sangue venoso seja azul; vasos pulmonares não estão detalhados.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema cardiovascular ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Respiratório · Pulmões",
+      "passed": true,
+      "id": "lungs",
+      "system": "respiratory",
+      "panelText": "SISTEMA RESPIRATÓRIO\nPulmões\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nNa cavidade torácica, um de cada lado do mediastino.\n\nFUNÇÃO PRINCIPAL\n\nRealizam trocas de oxigênio e dióxido de carbono com o sangue.\n\nDESCRIÇÃO\n\nO pulmão direito tem três lobos; o esquerdo tem dois e uma incisura cardíaca. As linhas de lobos são apenas orientativas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Respiratório · Traqueia e brônquios principais",
+      "passed": true,
+      "id": "trachea",
+      "system": "respiratory",
+      "panelText": "SISTEMA RESPIRATÓRIO\nTraqueia e brônquios principais\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nEntre o pescoço e o tórax; os brônquios principais entram nos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nConduzem ar em direção aos pulmões.\n\nDESCRIÇÃO\n\nA traqueia se divide em dois brônquios principais. O modelo não mostra a árvore de bronquíolos e alvéolos.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Respiratório · Diafragma",
+      "passed": true,
+      "id": "diaphragm",
+      "system": "respiratory",
+      "panelText": "SISTEMA RESPIRATÓRIO\nDiafragma\nSISTEMA ANATÔMICO\nRespiratório\nLOCALIZAÇÃO\nEntre as cavidades torácica e abdominal, abaixo dos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nÉ um dos principais músculos da inspiração.\n\nDESCRIÇÃO\n\nSepara as cavidades torácica e abdominal. Quando se contrai, ajuda a aumentar o volume do tórax.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema respiratório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Digestório · Esôfago",
+      "passed": true,
+      "id": "esophagus",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nEsôfago\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nDo pescoço ao abdome superior, posteriormente à traqueia e ao coração.\n\nFUNÇÃO PRINCIPAL\n\nConduz o alimento da faringe ao estômago.\n\nDESCRIÇÃO\n\nPassa posteriormente à traqueia e atravessa o diafragma. Nesta vista didática, parte do trajeto foi exposta para ser selecionável.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Digestório · Fígado",
+      "passed": true,
+      "id": "liver",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nFígado\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nPrincipalmente na parte superior direita do abdome, sob o diafragma.\n\nFUNÇÃO PRINCIPAL\n\nProduz bile e participa do metabolismo e processamento de substâncias.\n\nDESCRIÇÃO\n\nOcupa principalmente a parte superior direita do abdome. Nesta vista anterior, esse lado aparece à esquerda da imagem.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Digestório · Estômago",
+      "passed": true,
+      "id": "stomach",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nEstômago\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nPrincipalmente na parte superior esquerda do abdome.\n\nFUNÇÃO PRINCIPAL\n\nArmazena, mistura e inicia parte da digestão química dos alimentos.\n\nDESCRIÇÃO\n\nFica sobretudo no lado superior esquerdo do abdome, aparecendo à direita da imagem.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Digestório · Pâncreas",
+      "passed": true,
+      "id": "pancreas",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nPâncreas\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNo abdome superior, em grande parte posteriormente ao estômago.\n\nFUNÇÃO PRINCIPAL\n\nProduz secreções digestivas e hormônios como insulina e glucagon.\n\nDESCRIÇÃO\n\nLocaliza-se em grande parte atrás do estômago. É mostrado de forma exposta para permitir a exploração; também pertence ao sistema endócrino.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Digestório · Intestino delgado",
+      "passed": true,
+      "id": "smallIntestine",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nIntestino delgado\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNa cavidade abdominal, com alças sobretudo na região central e inferior.\n\nFUNÇÃO PRINCIPAL\n\nRealiza grande parte da digestão e da absorção de nutrientes.\n\nDESCRIÇÃO\n\nSuas alças ocupam parte importante do abdome. O trajeto foi simplificado e não mostra o comprimento real.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Digestório · Intestino grosso",
+      "passed": true,
+      "id": "colon",
+      "system": "digestive",
+      "panelText": "SISTEMA DIGESTÓRIO\nIntestino grosso\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nNo abdome, contornando parte das alças do intestino delgado e continuando até a pelve.\n\nFUNÇÃO PRINCIPAL\n\nAbsorve água e eletrólitos e participa da formação das fezes.\n\nDESCRIÇÃO\n\nO cólon contorna parte das alças do intestino delgado. O modelo inclui um trajeto resumido até o reto.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Esquelético · Crânio",
+      "passed": true,
+      "id": "skull",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nCrânio\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa cabeça, envolvendo o encéfalo e formando a estrutura da face.\n\nFUNÇÃO PRINCIPAL\n\nProtege o encéfalo e forma a estrutura óssea da cabeça.\n\nDESCRIÇÃO\n\nO contorno não individualiza todos os ossos do crânio.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Esquelético · Caixa torácica",
+      "passed": true,
+      "id": "ribs",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nCaixa torácica\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNo tórax, ao redor do coração e dos pulmões.\n\nFUNÇÃO PRINCIPAL\n\nAjuda a proteger órgãos do tórax e participa da mecânica respiratória.\n\nDESCRIÇÃO\n\nÉ formada por costelas, esterno e vértebras torácicas. O desenho mostra um número reduzido de arcos para facilitar a leitura.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Esquelético · Coluna vertebral",
+      "passed": true,
+      "id": "spine",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nColuna vertebral\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa região posterior do tronco, do pescoço à pelve.\n\nFUNÇÃO PRINCIPAL\n\nSustenta o tronco e protege a medula espinal.\n\nDESCRIÇÃO\n\nO modelo resume vértebras e não reproduz as curvaturas fisiológicas em uma vista lateral.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Esquelético · Pelve óssea",
+      "passed": true,
+      "id": "pelvis",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nPelve óssea\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNa base do tronco, conectando a coluna aos membros inferiores.\n\nFUNÇÃO PRINCIPAL\n\nTransfere cargas do tronco aos membros inferiores e protege estruturas pélvicas.\n\nDESCRIÇÃO\n\nOs contornos são esquemáticos; diferenças individuais não estão representadas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Esquelético · Úmeros",
+      "passed": true,
+      "id": "humerus",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nÚmeros\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNos braços, entre os ombros e os cotovelos.\n\nFUNÇÃO PRINCIPAL\n\nFormam a parte óssea dos braços, entre ombros e cotovelos.\n\nDESCRIÇÃO\n\nOs dois ossos foram agrupados para seleção. As articulações não são mostradas em detalhe.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Esquelético · Rádios e ulnas",
+      "passed": true,
+      "id": "forearm",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nRádios e ulnas\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNos antebraços, entre os cotovelos e os punhos.\n\nFUNÇÃO PRINCIPAL\n\nFormam o esqueleto dos antebraços.\n\nDESCRIÇÃO\n\nO rádio fica do lado do polegar na posição anatômica; os trajetos no desenho são simplificados.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Esquelético · Fêmures",
+      "passed": true,
+      "id": "femur",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nFêmures\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNas coxas, entre os quadris e os joelhos.\n\nFUNÇÃO PRINCIPAL\n\nSustentam as coxas e transmitem cargas entre quadris e joelhos.\n\nDESCRIÇÃO\n\nSão representados em ambos os lados. Proporções e inserções musculares não são detalhadas.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Esquelético · Tíbias e fíbulas",
+      "passed": true,
+      "id": "lowerLeg",
+      "system": "skeletal",
+      "panelText": "SISTEMA ESQUELÉTICO\nTíbias e fíbulas\nSISTEMA ANATÔMICO\nEsquelético\nLOCALIZAÇÃO\nNas pernas, entre os joelhos e os tornozelos.\n\nFUNÇÃO PRINCIPAL\n\nFormam a estrutura óssea das pernas abaixo dos joelhos.\n\nDESCRIÇÃO\n\nA tíbia suporta a maior parte da carga nesse segmento; a fíbula fica lateralmente.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema esquelético ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Coração · seleção depois de zoom e descrição persistente",
+      "passed": true,
+      "panelText": "SISTEMA CARDIOVASCULAR\nCoração\nSISTEMA ANATÔMICO\nCardiovascular\nLOCALIZAÇÃO\nNo tórax, entre os pulmões, com maior parte à esquerda da linha média.\n\nFUNÇÃO PRINCIPAL\n\nBombeia sangue para os pulmões e para o restante do corpo.\n\nDESCRIÇÃO\n\nFica no mediastino, entre os pulmões, com maior parte à esquerda da linha média do corpo. O desenho não separa suas quatro câmaras.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema cardiovascular ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Seleção de órgão por teclado",
+      "passed": true,
+      "panelText": "SISTEMA DIGESTÓRIO\nFígado\nSISTEMA ANATÔMICO\nDigestório\nLOCALIZAÇÃO\nPrincipalmente na parte superior direita do abdome, sob o diafragma.\n\nFUNÇÃO PRINCIPAL\n\nProduz bile e participa do metabolismo e processamento de substâncias.\n\nDESCRIÇÃO\n\nOcupa principalmente a parte superior direita do abdome. Nesta vista anterior, esse lado aparece à esquerda da imagem.\n\nLocalização orientativa em vista anterior. Observe o sistema isolado para evitar sobreposições.\nFonte: OpenStax · sistema digestório ↗\n↑ Voltar à ilustração"
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "DNA preservado",
+      "passed": true,
+      "panelText": "C · Citosina"
+    },
+    {
+      "viewport": 768,
+      "case": "Biblioteca preservada, navegação e layout sem rolagem lateral",
+      "passed": false,
+      "error": "page.goto: Timeout 12000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:39177/biolab/\", waiting until \"load\"\u001b[22m\n",
+      "url": "http://127.0.0.1:39177/biolab/#library",
+      "state": {
+        "hash": ""
+      }
+    },
+    {
+      "viewport": 768,
+      "input": "toque",
+      "case": "Sem erros JavaScript ou de recursos no console",
+      "passed": true,
+      "consoleErrors": []
+    }
+  ],
+  "errors": []
+}

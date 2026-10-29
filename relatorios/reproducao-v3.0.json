@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-29",
+  "browser": "156.0.4314.50",
+  "cells": {
+    "expected": "Mitocôndrias",
+    "before": "Núcleo",
+    "after": "Núcleo",
+    "events": [
+      {
+        "type": "pointerdown",
+        "target": "path",
+        "structure": "mitochondria"
+      },
+      {
+        "type": "gotpointercapture",
+        "target": "svg",
+        "structure": null
+      },
+      {
+        "type": "pointerup",
+        "target": "svg",
+        "structure": null
+      },
+      {
+        "type": "click",
+        "target": "svg",
+        "structure": null
+      }
+    ]
+  },
+  "anatomy": {
+    "expected": "Estômago",
+    "before": "Esôfago",
+    "after": "Esôfago",
+    "events": [
+      {
+        "type": "pointerdown",
+        "target": "path",
+        "structure": "mitochondria"
+      },
+      {
+        "type": "gotpointercapture",
+        "target": "svg",
+        "structure": null
+      },
+      {
+        "type": "pointerup",
+        "target": "svg",
+        "structure": null
+      },
+      {
+        "type": "click",
+        "target": "svg",
+        "structure": null
+      },
+      {
+        "type": "pointerdown",
+        "target": "path",
+        "structure": "stomach"
+      },
+      {
+        "type": "gotpointercapture",
+        "target": "svg",
+        "structure": null
+      },
+      {
+        "type": "pointerup",
+        "target": "svg",
+        "structure": null
+      },
+      {
+        "type": "click",
+        "target": "svg",
+        "structure": null
+      }
+    ]
+  }
+}

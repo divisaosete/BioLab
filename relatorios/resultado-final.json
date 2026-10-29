@@ -1,0 +1,2617 @@
+{
+  "date": "2026-10-29",
+  "browser": "156.0.4314.50",
+  "tool": "Playwright Core 1.64.1",
+  "unique_browser_cases": 216,
+  "passed": 216,
+  "remaining_failures": 0,
+  "javascript_console_errors": 0,
+  "unit_tests_passed": 23,
+  "first_run_passed": 215,
+  "first_run_failed": 1,
+  "retest_passed": 1,
+  "viewports": {
+    "1440": 72,
+    "360": 72,
+    "768": 72
+  },
+  "cases": [
+    {
+      "viewport": 1440,
+      "case": "Painel começa com a instrução e módulo de proteínas ausente",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula animal · Membrana plasmática",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula animal · Núcleo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula animal · Nucléolo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula animal · Mitocôndrias",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula animal · Retículo endoplasmático",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula animal · Complexo de Golgi",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula animal · Ribossomos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula animal · Lisossomos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula animal · Centrossomo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula animal · seleção depois de zoom",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula plant · Membrana plasmática",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula plant · Núcleo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula plant · Nucléolo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula plant · Mitocôndrias",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula plant · Retículo endoplasmático",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula plant · Complexo de Golgi",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula plant · Ribossomos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula plant · Cloroplastos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula plant · Vacúolo central",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula plant · Parede celular",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Célula plant · seleção depois de zoom",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Células · arraste não seleciona e o clique seguinte funciona",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Encéfalo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Medula espinal",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Nervos periféricos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Coração",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Grandes vasos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Pulmões",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Traqueia e brônquios principais",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Diafragma",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Esôfago",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Fígado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Estômago",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Pâncreas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Intestino delgado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Intestino grosso",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Crânio",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Caixa torácica",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Coluna vertebral",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Pelve óssea",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Úmeros",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Rádios e ulnas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Fêmures",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Visão integrada · Tíbias e fíbulas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Nervoso · Encéfalo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Nervoso · Medula espinal",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Nervoso · Nervos periféricos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Cardiovascular · Coração",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Cardiovascular · Grandes vasos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Respiratório · Pulmões",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Respiratório · Traqueia e brônquios principais",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Respiratório · Diafragma",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Digestório · Esôfago",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Digestório · Fígado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Digestório · Estômago",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Digestório · Pâncreas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Digestório · Intestino delgado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Digestório · Intestino grosso",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Esquelético · Crânio",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Esquelético · Caixa torácica",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Esquelético · Coluna vertebral",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Esquelético · Pelve óssea",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Esquelético · Úmeros",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Esquelético · Rádios e ulnas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Esquelético · Fêmures",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Esquelético · Tíbias e fíbulas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Coração · seleção depois de zoom e descrição persistente",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Seleção de órgão por teclado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "DNA preservado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Biblioteca preservada, navegação e layout sem rolagem lateral",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 1440,
+      "case": "Sem erros JavaScript ou de recursos no console",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Painel começa com a instrução e módulo de proteínas ausente",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula animal · Membrana plasmática",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula animal · Núcleo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula animal · Nucléolo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula animal · Mitocôndrias",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula animal · Retículo endoplasmático",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula animal · Complexo de Golgi",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula animal · Ribossomos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula animal · Lisossomos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula animal · Centrossomo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula animal · seleção depois de zoom",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula plant · Membrana plasmática",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula plant · Núcleo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula plant · Nucléolo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula plant · Mitocôndrias",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula plant · Retículo endoplasmático",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula plant · Complexo de Golgi",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula plant · Ribossomos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula plant · Cloroplastos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula plant · Vacúolo central",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula plant · Parede celular",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Célula plant · seleção depois de zoom",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Células · arraste não seleciona e o clique seguinte funciona",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Encéfalo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Medula espinal",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Nervos periféricos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Coração",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Grandes vasos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Pulmões",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Traqueia e brônquios principais",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Diafragma",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Esôfago",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Fígado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Estômago",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Pâncreas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Intestino delgado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Intestino grosso",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Crânio",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Caixa torácica",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Coluna vertebral",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Pelve óssea",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Úmeros",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Rádios e ulnas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Fêmures",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Visão integrada · Tíbias e fíbulas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Nervoso · Encéfalo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Nervoso · Medula espinal",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Nervoso · Nervos periféricos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Cardiovascular · Coração",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Cardiovascular · Grandes vasos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Respiratório · Pulmões",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Respiratório · Traqueia e brônquios principais",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Respiratório · Diafragma",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Digestório · Esôfago",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Digestório · Fígado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Digestório · Estômago",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Digestório · Pâncreas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Digestório · Intestino delgado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Digestório · Intestino grosso",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Esquelético · Crânio",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Esquelético · Caixa torácica",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Esquelético · Coluna vertebral",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Esquelético · Pelve óssea",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Esquelético · Úmeros",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Esquelético · Rádios e ulnas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Esquelético · Fêmures",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Esquelético · Tíbias e fíbulas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Coração · seleção depois de zoom e descrição persistente",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Seleção de órgão por teclado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "DNA preservado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Biblioteca preservada, navegação e layout sem rolagem lateral",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 360,
+      "case": "Sem erros JavaScript ou de recursos no console",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Painel começa com a instrução e módulo de proteínas ausente",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula animal · Membrana plasmática",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula animal · Núcleo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula animal · Nucléolo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula animal · Mitocôndrias",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula animal · Retículo endoplasmático",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula animal · Complexo de Golgi",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula animal · Ribossomos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula animal · Lisossomos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula animal · Centrossomo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula animal · seleção depois de zoom",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula plant · Membrana plasmática",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula plant · Núcleo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula plant · Nucléolo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula plant · Mitocôndrias",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula plant · Retículo endoplasmático",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula plant · Complexo de Golgi",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula plant · Ribossomos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula plant · Cloroplastos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula plant · Vacúolo central",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula plant · Parede celular",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Célula plant · seleção depois de zoom",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Células · arraste não seleciona e o clique seguinte funciona",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Encéfalo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Medula espinal",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Nervos periféricos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Coração",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Grandes vasos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Pulmões",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Traqueia e brônquios principais",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Diafragma",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Esôfago",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Fígado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Estômago",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Pâncreas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Intestino delgado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Intestino grosso",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Crânio",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Caixa torácica",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Coluna vertebral",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Pelve óssea",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Úmeros",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Rádios e ulnas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Fêmures",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Visão integrada · Tíbias e fíbulas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Nervoso · Encéfalo",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Nervoso · Medula espinal",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Nervoso · Nervos periféricos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Cardiovascular · Coração",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Cardiovascular · Grandes vasos",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Respiratório · Pulmões",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Respiratório · Traqueia e brônquios principais",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Respiratório · Diafragma",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Digestório · Esôfago",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Digestório · Fígado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Digestório · Estômago",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Digestório · Pâncreas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Digestório · Intestino delgado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Digestório · Intestino grosso",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Esquelético · Crânio",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Esquelético · Caixa torácica",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Esquelético · Coluna vertebral",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Esquelético · Pelve óssea",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Esquelético · Úmeros",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Esquelético · Rádios e ulnas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Esquelético · Fêmures",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Esquelético · Tíbias e fíbulas",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Coração · seleção depois de zoom e descrição persistente",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Seleção de órgão por teclado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "DNA preservado",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Biblioteca preservada, navegação e layout sem rolagem lateral",
+      "passed": true,
+      "report": "navegador-reteste.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": false,
+          "error": "page.goto: Timeout 12000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:39177/biolab/\", waiting until \"load\"\u001b[22m\n"
+        },
+        {
+          "report": "navegador-reteste.json",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "viewport": 768,
+      "case": "Sem erros JavaScript ou de recursos no console",
+      "passed": true,
+      "report": "navegador.json",
+      "attempts": [
+        {
+          "report": "navegador.json",
+          "passed": true
+        }
+      ]
+    }
+  ]
+}

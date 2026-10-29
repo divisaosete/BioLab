@@ -1,0 +1,4 @@
+export const EMPTY_SELECTION='Selecione uma estrutura para conhecer sua função.';
+export function clearSelectionPanel(panel){panel.dataset.selectedId='';panel.classList.add('empty-info');panel.innerHTML=`<div class="selection-symbol" aria-hidden="true">◎</div><p>${EMPTY_SELECTION}</p><p class="mini">Clique ou toque diretamente na ilustração. A descrição ficará aqui até você escolher outra estrutura.</p>`}
+export function revealSelectionPanel(panel){panel.classList.remove('empty-info');const view=panel.ownerDocument.defaultView;if(view.matchMedia?.('(max-width: 1150px)').matches)view.requestAnimationFrame(()=>{if(panel.isConnected)panel.scrollIntoView({block:'nearest',behavior:'instant'})})}
+export const returnToDiagram=()=>'<button class="return-diagram" data-return-to-diagram="true">↑ Voltar à ilustração</button>';
